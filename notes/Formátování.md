@@ -4,7 +4,7 @@ favorited: true
 tags: [meta, Notebooks/B, Notebooks/Č, Notebooks/D, Notebooks/Fy, Notebooks/Hv, Notebooks/Sv, Notebooks/Z]
 title: Formátování
 created: '2020-04-03T08:28:21.466Z'
-modified: '2020-04-03T12:46:16.547Z'
+modified: '2020-04-03T13:23:23.493Z'
 ---
 
 # Formátování
@@ -48,3 +48,4 @@ code:
 
 image:
 ![KAS](../attachments/KAS.jpg)
+<img src=../attachments/KAS.jpg alt=KAS style="width:200px" align="middle"/>
