@@ -2,11 +2,12 @@
 tags: [Notebooks/Z]
 title: Asie
 created: '2020-04-03T13:27:11.612Z'
-modified: '2020-04-04T17:01:47.949Z'
+modified: '2020-04-05T17:13:14.130Z'
 ---
 
 # Asie 
 * plocha: __44,4mil.km^2^__
+
 ## Přírodní podmínky
 ### Povrch
 * nejvyšší hora: __Mt. Everest, 8848 m__
@@ -20,3 +21,9 @@ modified: '2020-04-04T17:01:47.949Z'
 ##### Jezera
 * Aralské jezero - vysychá
 * Bajkal
+### Biomy
+* Tajga - Rusko
+* Stepi - Mongolsko
+* Pouště - Rub al-Chálí, S. Arábie
+* Bambusový les - Čína
+
