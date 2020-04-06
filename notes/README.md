@@ -2,11 +2,12 @@
 attachments: [KAS.jpg]
 favorited: true
 tags: [meta, Notebooks/B, Notebooks/Č, Notebooks/D, Notebooks/Fy, Notebooks/Hv, Notebooks/Sv, Notebooks/Z]
-title: Formátování
+title: README
 created: '2020-04-03T08:28:21.466Z'
-modified: '2020-04-05T17:16:08.796Z'
+modified: '2020-04-06T13:25:54.346Z'
 ---
 
+# README
 # Formátování
 # h1 - kapitola
 ## h2 - sekce/autor
