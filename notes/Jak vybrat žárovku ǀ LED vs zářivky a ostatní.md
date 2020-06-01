@@ -2,7 +2,7 @@
 tags: [topsvetla]
 title: Jak vybrat žárovku | LED vs zářivky a ostatní
 created: '2020-05-08T11:37:15.703Z'
-modified: '2020-05-08T12:12:34.460Z'
+modified: '2020-05-28T18:43:15.624Z'
 ---
 
 # Jak vybrat žárovku | LED vs zářivky a ostatní
@@ -46,9 +46,42 @@ __Výkon LED žárovky__ se určuje v lumenech. Následující tabulka umožňuj
 | 125 W | 1 700 - 1 800 lm |
 | 150 W | 2 100 - 2 200 lm |
 
-# Porovnání
+# Porovnání druhů žárovek podle svítivosti
 | Orientační svítivost | Klasická žárovka | Halogenová žárovka | Úsporná žárovka (kompaktní zářivka) | LED žárovka |
 | --- | --- | --- | --- | --- |
 |500 lumenů | 40 W | 35 W | 11 W | 7 W |
  750 lumenů|60 W|42 W|15 W|9 W
  1300 lumenů|100 W|70 W|23 W|15 W
+
+ # Barevná teplota
+ __Obecně se rozližují 3 základní typy světla:__
+ - __Teplá bílá__ (2700 – 3500 K)
+ - __Denní bílá__ (4500 – 6500 K)
+ - __Studená bílá__ (6500 - 9000 K)
+
+__Teplá bílá__ se nejvíce blíží světlu klasické žárovky. Hodí se nejvíce do ložnice nebo obývacího pokoje. Její světlo může ale __unavovat oči a uspávat__.
+
+__Denní bílá__ je __nejbližší dennímu světlu__. Díky tomu je velmi šetrná pro oči a hodí se k jídlu (kuchyň, jídelna) a všude kde je málo denního světla. 
+
+__Studená bílá__ se v domácnosti příliš nepoužívá. Najdeme ji hlavně v průmyslových budovách, v pouličním osvětlení nebo u lékaře. Namodralé studené světlo ale může působit __agresivně a chladně.__
+
+# Stmívatelnost
+Velmi užitečná může být možnost stmívání žárovky, která umožňuje plynule měnit intenzitu světla podle potřeby. Ke každé žárovce je většinou potřeba mít příslušný stmívač. Ke stmívání žárovek pomocí stmívače je potřeba použít žárovky, které jsou označené jako __stmívatelné__.
+
+Existují chytré žárovky, které ke stmívání zabudovaný stmívač nepotřebují a dají se ovládat bezdrátovým ovladačem nebo přes systém chytré domácnosti.
+
+# Spotřeba elektrické energie
+
+Roční náklady na provoz jedné žárovky spočítáme následujícím způsobem:
+  
+
+
+$\boxed{příkon \space žárovky \space[W]\over 1000\cdot Cena\space za\space elektřinu [Kč/KWh]}\cdot počet \space hodin \space svícení$
+
+### Orientační tabulka spotřeby
+|Typ žárovky|Pořizovací cena|Životnost|Příkon|Cena za rok nepřetržitého svícení|
+|---|---|---|---|---|
+Klasická|15 Kč|1 000 hod.|60 W|2 674 Kč
+Halogenová|85 Kč|2 000 hod.|40 W|2 117 Kč
+Úsporná|139 Kč|8 000 hod.|15 W|913 Kč
+LED|250 Kč|15 000 hod.|9 W|631 Kč
