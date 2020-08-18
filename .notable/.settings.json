@@ -1,0 +1,23 @@
+{
+  "editor": {
+    "states": "[[\"/Users/robert/Documents/notable/notes/notes/Asie.md\",{\"id\":\"/Users/robert/Documents/notable/notes/notes/Asie.md\",\"history\":{\"past\":[],\"future\":[]},\"view\":{\"cursorState\":[{\"inSelectionMode\":false,\"selectionStart\":{\"lineNumber\":1,\"column\":1},\"position\":{\"lineNumber\":1,\"column\":1}}],\"viewState\":{\"scrollLeft\":0,\"firstPosition\":{\"lineNumber\":1,\"column\":1},\"firstPositionDeltaTop\":20},\"contributionsState\":{\"editor.contrib.folding\":{\"lineCount\":22,\"provider\":\"syntax\"},\"editor.contrib.wordHighlighter\":false}}}]]"
+  },
+  "tabs": {
+    "all": "[[\"/Users/robert/Documents/notable/notes/notes/Asie.md\",false]]",
+    "current": "\"/Users/robert/Documents/notable/notes/notes/Asie.md\""
+  },
+  "tags": {
+    "collapsed": "[]",
+    "current": "[\"__NOTABLE_NOTES_ALL__\"]"
+  },
+  "multiEditor": {
+    "selected": "[\"/Users/robert/Documents/notable/notes/notes/Asie.md\"]"
+  },
+  "preview": {
+    "states": "[[\"/Users/robert/Documents/notable/notes/notes/Asie.md\",{\"id\":\"/Users/robert/Documents/notable/notes/notes/Asie.md\",\"scrollTop\":0,\"scrollLeft\":0}],[\"quick-modal-help-theming\",{\"id\":\"quick-modal-help-theming\",\"scrollTop\":0,\"scrollLeft\":0}],[\"quick-modal-help-linking\",{\"id\":\"quick-modal-help-linking\",\"scrollTop\":0,\"scrollLeft\":0}],[\"/Users/robert/Documents/notable/notes/notes/Building your own open-source router.md\",{\"id\":\"/Users/robert/Documents/notable/notes/notes/Building your own open-source router.md\",\"scrollTop\":0,\"scrollLeft\":0}]]"
+  },
+  "search": {
+    "query": "\"\"",
+    "recents": "[]"
+  }
+}
