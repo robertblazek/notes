@@ -1,8 +1,8 @@
 ---
-tags: [Notebooks, Notebooks/Mluvnice]
 title: Tvarosloví
+tags: [Notebooks/Mluvnice, Sexta]
 created: '2020-04-08T07:20:06.278Z'
-modified: '2020-04-08T10:22:26.551Z'
+modified: '2020-09-01T11:43:45.842Z'
 ---
 
 # Tvarosloví

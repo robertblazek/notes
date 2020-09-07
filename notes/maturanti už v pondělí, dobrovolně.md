@@ -1,7 +1,8 @@
 ---
 title: 'maturanti už v pondělí, dobrovolně'
+tags: [Sexta]
 created: '2020-05-05T16:08:19.279Z'
-modified: '2020-05-05T16:11:33.367Z'
+modified: '2020-08-28T09:22:26.931Z'
 ---
 
 - maturanti už v pondělí, dobrovolně

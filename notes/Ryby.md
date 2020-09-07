@@ -1,8 +1,8 @@
 ---
-tags: [Notebooks/B]
 title: Ryby
+tags: [Sexta]
 created: '2020-04-21T08:08:01.639Z'
-modified: '2020-04-24T13:28:45.246Z'
+modified: '2020-09-01T11:45:34.123Z'
 ---
 
 # Ryby

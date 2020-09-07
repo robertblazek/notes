@@ -1,8 +1,8 @@
 ---
-tags: [Notebooks/Č]
 title: "Baroko v\_evropských zemích"
+tags: [Sexta]
 created: '2020-04-08T14:28:13.075Z'
-modified: '2020-04-08T14:31:03.338Z'
+modified: '2020-09-01T11:45:34.122Z'
 ---
 
 **<span class="underline">Baroko v evropských zemích</span>**
