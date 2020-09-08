@@ -2,7 +2,7 @@
 tags: [Notebooks/Literatura]
 title: Česká moderna a dekadence
 created: '2020-09-03T11:40:56.880Z'
-modified: '2020-09-07T06:44:30.694Z'
+modified: '2020-09-08T09:26:41.469Z'
 ---
 
 # Česká moderna a dekadence
@@ -32,12 +32,12 @@ modified: '2020-09-07T06:44:30.694Z'
 ### projevy generačních střetů
 - mladá generace kritizuje Lumírovskou generaci – mlhavost, napodobitelnost
   - mladá generace zdůrazňuje mravní závaznost umění
-- __1890__ - F.X. Šalda: Analysa – ostrá kritika Jan Herben: Čas
+- __1890__ - F.X. Šalda: Analysa – ostrá kritika Jan Herben: časopis Čas
   - vznikl __Synthetism v novém umění__ (1892)
     - zdůrazňuje význam literární kritiky, osobnost kritika a jeho individualitu
     - požaduje objektivitu a zdůvodnění jeho názorů
 - __1894__ - J.S. Machar – __Boj o Hálka__
-  - postavil na správné místo Jana Nerudu
+  - postavil na správné místo Jana Nerudu, Hálka ohodnotil jako básníka druhého řádu
 - polemiky v novinách a časopisech
 - __vznikla řada sdružení spisovatelů s podobnými názory:__
   - __dekadenti__ – Moderní revue (1894)
@@ -47,6 +47,7 @@ modified: '2020-09-07T06:44:30.694Z'
 
 - __vzniká moderní česká literatura a moderní literární kritika__
 
+### Dekadenti
 #### Moderní revue (1894)
   - __Arnošt Procházka__ a __Jiří Karásek ze Lvovic__
 - překlady umělěckých a filosofických textů
@@ -55,3 +56,40 @@ modified: '2020-09-07T06:44:30.694Z'
 - __l'art pour l'artismus__ – umění pro umění
 - __Karásek ze Lvovic: Zazděná okna__
   - zmar, nechuť, pocity umdlení, znechucení a marnosti
+
+#### Karel hlaváček (1874–1898)
+- literární a výrvarný talent
+
+- __Sokolské sonety__
+  - vzdává holt sokolské myšlence, později se jí zřekl
+- __Pozdě k ránu__ (1896)
+  - sbírka 23 básní (i v próze)
+  - předmluva, kde vyslovuje záměr __odlišit se od dosavadní české poezie__
+  - široká škála dekadentních poloh, nesjednocené dílo, rozdílná umělecká úroveň
+  - vstupní text – básnická próza __Pozdě k ránu__
+    - smutek z konce století
+    - pomezí noci a rána, pocity melancholie, smutku a marnosti
+    - symboly, kontrasty a metafory, hudební nástroje a motivy
+    - šeré zahrady, tichá hudba, pobledlost a únava, měsíc a jeho vodní odraz
+    - verše teskné krásy vyvolávající mlhavé představy, že život je utkán z nerozřešitelných záhad
+    - impresionismus
+  - __Svou violu jsem naladil, co možná nejhlouběji__
+  - __Mstivá kantiléna__
+    - stylizuje se do role mluvčiho gézů 
+    - o individuální revoltě
+  - __Hrál kdosi na hoboj__
+    - epizeuxis
+
+### Katolická moderna 
+- vychází ze snahy jít s dobou a modernizovat zýrazové prostředky
+- __Manifest__ (1895), v časopise Niva pod vedením Sigismunda Boušky
+- společně vydali slovník __Pod jedním praporem__
+- Jaroslav Durych
+
+### Česká moderna 
+- __Manifest__ (1895)
+- seskupení mladší literární generace
+- vzniklo v souvislosti s bojem o Hálka
+
+> - čeho se týkal?
+> - hlavní myšlenky?
