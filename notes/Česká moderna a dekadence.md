@@ -1,8 +1,9 @@
 ---
+favorited: true
 tags: [Notebooks/Literatura]
 title: Česká moderna a dekadence
 created: '2020-09-03T11:40:56.880Z'
-modified: '2020-09-08T09:26:41.469Z'
+modified: '2020-09-09T09:22:58.137Z'
 ---
 
 # Česká moderna a dekadence
@@ -47,8 +48,8 @@ modified: '2020-09-08T09:26:41.469Z'
 
 - __vzniká moderní česká literatura a moderní literární kritika__
 
-### Dekadenti
-#### Moderní revue (1894)
+## Dekadenti
+### Moderní revue (1894)
   - __Arnošt Procházka__ a __Jiří Karásek ze Lvovic__
 - překlady umělěckých a filosofických textů
 - __Stanislav Przybyszewski__ - propagace satanismu
@@ -57,13 +58,13 @@ modified: '2020-09-08T09:26:41.469Z'
 - __Karásek ze Lvovic: Zazděná okna__
   - zmar, nechuť, pocity umdlení, znechucení a marnosti
 
-#### Karel hlaváček (1874–1898)
+### Karel hlaváček (1874–1898)
 - literární a výrvarný talent
 
 - __Sokolské sonety__
   - vzdává holt sokolské myšlence, později se jí zřekl
 - __Pozdě k ránu__ (1896)
-  - sbírka 23 básní (i v próze)
+  - sbírka 23 básní (i v próze)z
   - předmluva, kde vyslovuje záměr __odlišit se od dosavadní české poezie__
   - široká škála dekadentních poloh, nesjednocené dílo, rozdílná umělecká úroveň
   - vstupní text – básnická próza __Pozdě k ránu__
@@ -80,16 +81,43 @@ modified: '2020-09-08T09:26:41.469Z'
   - __Hrál kdosi na hoboj__
     - epizeuxis
 
-### Katolická moderna 
+## Katolická moderna 
 - vychází ze snahy jít s dobou a modernizovat zýrazové prostředky
 - __Manifest__ (1895), v časopise Niva pod vedením Sigismunda Boušky
 - společně vydali slovník __Pod jedním praporem__
 - Jaroslav Durych
 
-### Česká moderna 
-- __Manifest__ (1895)
-- seskupení mladší literární generace
-- vzniklo v souvislosti s bojem o Hálka
-
-> - čeho se týkal?
-> - hlavní myšlenky?
+## Česká moderna 
+- __Manifest__ (1895) – časopis Rozhledy
+  - hlavní autor – Josef Svatopluk Machar
+  - seskupení mladší literární generace
+  - vzniklo v souvislosti s bojem o Hálka
+  - __souhlas vyjádřilki podpisem:__
+    - básníci: Antonín Sova, Otokar Březina
+    - prozaici: Vilém Mrštík a Josef Karel Šlejhar
+    - kritici: F.X. Šalda, Josef Václav Krejčí
+  __manifest spojil otázku společnosti a umění__
+  - __projevy a hodnoty:__
+    - originalita
+    - individualismus (osobnost tvůrce)
+    - právo vyslovit otevřeně kritický názor
+    - kritika mladočechů, požadovali osobnosti v politice
+    - sociální cítění s dělníky 
+    - volební právo pro všechny
+  - __ohlas a důsledky:__
+    - organizační základ české moderny (ta se rozpadla kvůli přílišné individualitě umělců...)
+    - moderní literární kritika
+    - končí služebnost literatury
+    - vznikla díla evropské úrovně
+### Josef Svatopluk Machar (1864–1942)
+- asi 30 let působil jako úředník ve Vídni
+- působil v armádě, na konci 30. let odešel do ústraní
+#### Lyrika
+- __Confiteor__ (1887)
+  = "vyznání víry"
+- __Třetí kniha lyriky__
+  - deníky moderního člověka formou zpovědi – vyjadřuje moderní společenské ideály
+- __Čtyři knihy sonetů__
+- __Tristium Vindobona__ (1893)
+  - trista
+  - vrchol Macharovy lyrické tvorby

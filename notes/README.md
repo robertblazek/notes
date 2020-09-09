@@ -1,10 +1,10 @@
 ---
-title: README
 attachments: [KAS.jpg]
-tags: [Buzola, meta, Notebooks/CH, Notebooks/D, Notebooks/Fy, Notebooks/FyS, Notebooks/IVT, Notebooks/Literatura, Notebooks/MaS, Notebooks/SV, Parlament, random]
 favorited: true
+tags: [Buzola, meta, Notebooks/B, Notebooks/D, Notebooks/Fy, Notebooks/FyS, Notebooks/CH, Notebooks/IVT, Notebooks/Literatura, Notebooks/MaS, Notebooks/SV, Parlament, random]
+title: README
 created: '2020-04-03T08:28:21.466Z'
-modified: '2020-09-01T11:55:26.627Z'
+modified: '2020-09-09T06:05:12.948Z'
 ---
 
 # README
