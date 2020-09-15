@@ -2,7 +2,7 @@
 tags: [Notebooks/D]
 title: Osvícenský absolutismus ve střední Evropě
 created: '2020-09-02T09:36:07.999Z'
-modified: '2020-09-09T07:34:29.047Z'
+modified: '2020-09-14T09:28:44.892Z'
 ---
 
 # Osvícenský absolutismus ve střední Evropě
@@ -124,3 +124,43 @@ __→ centralizovaná absolutistická monarchie__
   - Prusko, Rusko a Habsburská monarchie
 
 - polsko zmizelo z mapy, obnoveno 1918
+
+## Habsburská monarchie na cestě k moderní společnosti
+vláda Marie Terezie (1740–1780) a Josefa II. (1780–1790)
+→ její otec __Karel VI.__ (1711–1740)
+- říše nesjednocená a národně, hospodářsky a kulturně nesourodá
+- poslední mužský potomek habsburské dynastie
+- po dobu své vlády se snažil řešit dynastickou kontinuitu Habsburků
+- __1713 – pragmatická sankce__
+  - nedělitelnost říše 
+  - nástupnictví v ženské linii
+- válečné neúspěchy 
+- nedoststek financí
+### Marie Terezie (1740–1780)
+- provdána za __Františka Štěpána Lotrinského__ (1708–1765)
+- 5 synů a 8 dcer
+- výhodná sňatková politika
+- musela o své dědictví bojovat
+#### Války o rakouské dědictví (1740–1748)
+- __1742 – mír  s Pruskem__
+- __1748 – mír v Cáchách__
+__→ přišla o Slezsko a Kladsko__
+#### Sedmiletá válka (1756–1763)
+- pritipruská koalice
+- diplomat Václav Antonín Kounic (1711–1794)
+- generál Ernst Gideon von Laudon (1716–1790)
+- 1754–1763 – v Paříži sjednán mír
+- Francouzsko-indiánská válka
+### František Štěpán Lotrinský
+- Velkovévoda
+- habsbursko-lotrinská dynastie
+
+### Josef II. 
+- od r. 1765 spoluvladařem M.T.
+- nutnost změn v armádě
+- nutnost posílit obranyschopnost státu
+  - → Terezín a Josefov
+#### tereziánské a josefínské reformy
+- osvícenský nacionalismus
+- __cíl:__ jednotný, vojensky silný, přísně centrálně spravovaný stát
+- snaha odstranit stavovský systém – překotné zavádění zákonů

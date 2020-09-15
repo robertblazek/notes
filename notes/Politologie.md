@@ -2,7 +2,7 @@
 tags: [Notebooks/SV]
 title: Politologie
 created: '2020-09-08T09:46:51.383Z'
-modified: '2020-09-10T10:54:43.286Z'
+modified: '2020-09-15T08:29:28.108Z'
 ---
 
 # Politologie
@@ -44,6 +44,19 @@ modified: '2020-09-10T10:54:43.286Z'
 - __19.–20. století__
   - __Karel Marx__
     - něměcký filosof, publicista a teoretik socialismu a komunismu
-    
+- moderní politilogie
+## politika
+  - oblast zájmů, názorů, ideologií spojených s uplatňováním politické moci
+  - aktivita - rozdílné zájmy uvnitř systému vládnutí usmiřovány úměrným podílem na moci
+  - proces prolínání konfliktu a kooperace rozdílných společ. skupin (rozdílný společenský zájem)
+## Stát
+- z řeckého __stato__ = status, řád
+- právní celek s výkonnou, soudní a zákonnodárnou mocí
+- 
+- státem je subjekt splňující tato kritéria:
+  - obyvatelstvo 
+  - území
+  - vláda
+  - politická role ve světě
 
 

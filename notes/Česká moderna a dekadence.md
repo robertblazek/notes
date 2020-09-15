@@ -1,9 +1,8 @@
 ---
-favorited: true
 tags: [Notebooks/Literatura]
 title: Česká moderna a dekadence
 created: '2020-09-03T11:40:56.880Z'
-modified: '2020-09-09T09:22:58.137Z'
+modified: '2020-09-15T09:05:27.150Z'
 ---
 
 # Česká moderna a dekadence
@@ -112,6 +111,9 @@ modified: '2020-09-09T09:22:58.137Z'
 ### Josef Svatopluk Machar (1864–1942)
 - asi 30 let působil jako úředník ve Vídni
 - působil v armádě, na konci 30. let odešel do ústraní
+- moderní v obsahu – postavení žen a dělníků, kritizoval maloměšťáctví a úzké politické obzory
+- vnesl do literatury řadu etických a politických otázek 
+- realistické metody
 #### Lyrika
 - __Confiteor__ (1887)
   = "vyznání víry"
@@ -121,3 +123,38 @@ modified: '2020-09-09T09:22:58.137Z'
 - __Tristium Vindobona__ (1893)
   - trista
   - vrchol Macharovy lyrické tvorby
+- __Zde by měly kvést růže__ (1894)
+  - příběhy o osudech žen a dívek – autor kritizuje jejich nerovnoprávné společenské postavení
+  - __Teta__
+- __Magdaléna__ (1894) – román ve verších
+  - příběh mladé ženy, kterou vlastní otec kvůli svému pohodlí přiměl, aby se stala prostitutkou – kritizuje maloměšťáckou morálku a pokrytectví (padlá žena je morálně čistší než společnost která jí opovrhuje)
+- __Boží bojovníci__ (1897) – satira na soudobou politiku
+  - kritizuje politiku mladočechů a jejich představitele snižuje na ubohé figurky
+- __S vědomím věků__ (po roce 1900) – cyklus sbírek, velice subjektivní názory
+  - dominuje Macharův individualismus, vyjadřuje svoje názory na smysl dějin, zneužívání náboženství
+    - __V záři helénského slunce__ – obdivuje antiku jako období štěstí a vyrovnanosti
+    - __Jed z Judey__ – o vzniku křesťanství a jeho zkázonosném vlivu na antiku, odsuzuje vyznávání smrti a odříkání
+    - __Barbaři__ – středověk
+    - __Pohanské plameny__ – renesance
+    - __Apoštolové__ – reformace
+    - __Roky za století__ – velká francouzská revoluce a napoleonské výboje
+    - __Krůčky dějin__ – současnost
+    - __Kam to spěje?__ – budoucnost
+      - nevidí budoucnost optimisticky
+### Antonín Sova
+- ve své tvorbě se vyrovnal se všemi směry 19. století s výjimkou naturalismu
+- básník, prozaik, zakladatel moderní lyrické prózy v české literatuře
+- básně v próze
+reslismus
+- __Realistické sloky__ (1890)
+impresionismus – prchavé nálady, barevnost
+- __Květy zimních nálad__ (1891)
+  - U řek
+  - Olše
+expresionismus a dekadence
+- __Soucit a vzdor__
+- __Zlomená duše__
+  - Smetanovo kvarteto Z mého života
+    - rozebírá život Bedřicha Smetany
+    - bohatý obrazný básnický jazyk
+symbolismus 
