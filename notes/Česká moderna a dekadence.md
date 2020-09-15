@@ -2,7 +2,7 @@
 tags: [Notebooks/Literatura]
 title: Česká moderna a dekadence
 created: '2020-09-03T11:40:56.880Z'
-modified: '2020-09-15T09:05:27.150Z'
+modified: '2020-09-15T09:28:21.271Z'
 ---
 
 # Česká moderna a dekadence
@@ -145,6 +145,8 @@ modified: '2020-09-15T09:05:27.150Z'
 - ve své tvorbě se vyrovnal se všemi směry 19. století s výjimkou naturalismu
 - básník, prozaik, zakladatel moderní lyrické prózy v české literatuře
 - básně v próze
+- __mistr nálady, dokáže barevně popsat přírodní scenérie, intimní lyriku; vytvořil jemný harmonický verš s metaforami, projevil i sociální cítění__
+#### poezie
 reslismus
 - __Realistické sloky__ (1890)
 impresionismus – prchavé nálady, barevnost
@@ -152,9 +154,25 @@ impresionismus – prchavé nálady, barevnost
   - U řek
   - Olše
 expresionismus a dekadence
-- __Soucit a vzdor__
-- __Zlomená duše__
-  - Smetanovo kvarteto Z mého života
+- __Soucit a vzdor__ (1894)
+- __Zlomená duše__ (1896)
+  - __Smetanovo kvarteto Z mého života__
     - rozebírá život Bedřicha Smetany
     - bohatý obrazný básnický jazyk
 symbolismus 
+- o vizi božího klálovství na zemi
+- __Vybouřené smutky__ (1897)
+  - život poutníka, který smrtelně zraněn utíká od bídné země na hory snů, ale nakonec se do země opět vrací – do nového světa, který mají přivolat proroci, hlasatelé mravního přerodu člověka
+intimní lyrika
+- __Ještě jednou se vrátíme__ (1900, 1912)
+  - __Kdo vám tak zcuchal tmavé vlasy__
+    - návrat do dětství a mládí, zklamání z lásky
+- __Básníkovo jaro__
+- __Drsná láska__
+vlastenecká díla
+> ?1
+#### próza
+- lyrizoval epiku – zakladatel lyrické prózy
+- __Ivův román__ (1902) – snílek, který se zamiluje do Štěpánky, dcery virtuoze, ta však začíná spolupracovat s jiným virtuozem, Ivo si myslí že o něj Štěpánka nestojí → napíše jí že o ni již nestojí, __ona však ano :(__
+- __Pankrác Budecius, kantor__ (1916) – po životních problémech začne pít a toulat se, nakonec se ale vrátí zpět
+> Otokar Březina – Moje Matka
