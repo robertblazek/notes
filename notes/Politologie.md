@@ -2,7 +2,7 @@
 tags: [Notebooks/SV]
 title: Politologie
 created: '2020-09-08T09:46:51.383Z'
-modified: '2020-09-15T08:29:28.108Z'
+modified: '2020-09-17T10:54:45.007Z'
 ---
 
 # Politologie
@@ -58,5 +58,44 @@ modified: '2020-09-15T08:29:28.108Z'
   - území
   - vláda
   - politická role ve světě
-
-
+- funkce státu
+  - vnitřní
+    - bezpečnostní
+    - právní
+    - ekonomická
+    - sociální
+    - kulturní
+  - vnější
+    - politická
+    - vojenská
+### formy státu
+- podle počtu vládců
+  - monarchie (vláda jednoho)
+  - oligarchie (vláda několika)
+  - demokracie (vláda "všech")
+- podle toho, kdo vládne
+  - monarchie (jeden člověk) – dědičná
+    - absolutní (neomezená) – 
+    - konstituční (ústava) – Monako, Norsko
+    - parlamentní (minimální pravomoce) – Spojené království, Nizozemí, Belgie
+  - sofokracie (vláda filozofů)
+  - aristokracie
+  - oligarchie
+  - byrokracie
+- podle formy režimu
+  - diktatura
+    - jednoduchá (moc vynucena silou)
+    - caesaristická (diktátor usiluje o podporu mezi lidmi, aby svou vládu mohl idealizovat)
+    - totalitní (koncentrace moci v rukou státní strany)
+  - demokracie
+- podle vztahu k výkonné a k zákonodárné moci
+  - prezidentský systém (prezident je předseda vlády) – US, Brazílie
+  - parlamentní systém – CZ, SK 
+  - semiprezidentský systém (o moc se dělí s vládou kterou sestaví sám, ta ale musí mít podporu parlamentu) – Francie
+- podle územně správního členění
+  - konfederace (volné sdružení partnerských států) – např. Commonweatlh, EU
+  - federace (sdružení na základě společné ústavy) – USA, Švýcarsko
+  - unitární stát (jednotné území s jedinou vládou) – ČR
+  
+### právní stát
+- Chammurappiho zákoník
