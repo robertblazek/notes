@@ -1,8 +1,9 @@
 ---
+attachments: [Struktura_právního_řádu.png]
 tags: [Notebooks/SV]
 title: Politologie
 created: '2020-09-08T09:46:51.383Z'
-modified: '2020-09-17T10:54:45.007Z'
+modified: '2020-09-29T08:21:06.954Z'
 ---
 
 # Politologie
@@ -98,4 +99,32 @@ modified: '2020-09-17T10:54:45.007Z'
   - unitární stát (jednotné území s jedinou vládou) – ČR
   
 ### právní stát
-- Chammurappiho zákoník
+- podoba pyramidy
+    - předpisy zákonné 
+    - předpisy prováděcí
+- suverenita občana
+- možnost se účastnit politického života (volit + kandidovat)
+[](@attachment/Struktura_právního_řádu.png)
+
+- __teorie vzniku státu__
+  - smluvní – smlouva mezi lidmi
+  - náboženská – stejná víra
+  - patriarchální – snaha ospravedlnit absolutní stát
+  - mocenská – nadvláda silnějšího 
+### národ
+- národní příslušnost
+  - člověk ji získává
+    - přijetím životního stylu
+    - přiznáním státního občanství
+  - plnoprávné členství jedince v daném státním útvaru
+  - povinnosti:
+    - platit daně
+    - dodržovat zákony
+  - benefity:
+    - právní ochrana
+    - zdravotní péče
+    - vzdělání...
+- státní občanství ČR
+  - vzniká narozením, osvojením, nalezením na území ČR :D, prohlášením, udělením
+  - zaniká prohlášením, nabytím cizího občanství...
+  
