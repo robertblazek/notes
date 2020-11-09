@@ -2,7 +2,7 @@
 tags: [Notebooks/Literatura]
 title: Česká moderna a dekadence
 created: '2020-09-03T11:40:56.880Z'
-modified: '2020-09-15T09:28:21.271Z'
+modified: '2020-10-12T06:29:39.821Z'
 ---
 
 # Česká moderna a dekadence
@@ -176,3 +176,58 @@ vlastenecká díla
 - __Ivův román__ (1902) – snílek, který se zamiluje do Štěpánky, dcery virtuoze, ta však začíná spolupracovat s jiným virtuozem, Ivo si myslí že o něj Štěpánka nestojí → napíše jí že o ni již nestojí, __ona však ano :(__
 - __Pankrác Budecius, kantor__ (1916) – po životních problémech začne pít a toulat se, nakonec se ale vrátí zpět
 > Otokar Březina – Moje Matka
+### Otokar Březina (1868–1929)
+- vlastním jménem Václav Jebavý, narodil se na českomoravské vrchovině v rodině chudého ševce, působil v Nové Říři a v Jaroměřicích
+- velice osobitý výraz, ovlivnil řadu dalších autorů
+- v mládí velice společenský a družný, pak ale trpěl postavením venkovského učitele
+- o to víc se věnoval sám sobě a upnul se k umělecké tvorbě, žil osaměle
+- jediná žena, s níž udržoval kontakty byla Anna Pamrová 
+- __dílo má jednotnou tematickou výstavbu, jedinečné v tvorbě prostředků, bohatá terminologie přírodních a exaktních vět, epiteta (mystycký, záhadný...) a vytváří obrazy, sdružuje řetězce představ, nebo je staví do kontrastu__
+- moderní polytematická poezie – volný verš
+#### realismus
+- humorné črty z maloměstského života 
+#### naturalismus
+- novely: Důležitý den ze života příštikáře – dívka, co pracovala na stavbě, trpěla a zemřela
+- __vliv F.X.Šaldy__ – __Synthetism v novém umění__
+  - šalda odmítl pouhou poetizaci skutečnosti, přestal oddělovat život a umění, vytyčil program __integrálního umění__, které by mělo dotvářet život a svět a překonávat roztříštěnost světa
+  - umění by mělo fakta syntetizovat a odkrývat v nich věčné pravdy – umění se stává poznáním a ctí moderního umělce je jej vyjádřit symbolem, zkratkou nebo znakem
+- Březina se rozhodl realizovat program synthetismu
+
+- věnoval se hlavně poezii v duchu symbolismu
+
+#### sbírky
+- __Tajemné dálky__ (1895)
+  - vyjadřuje autorův odvrat od pozemského štěstí k samotářství a umění, ke kultu krásy, která stojí nad nízkostí života... hledá krásu, která se mu postupně stává prokletím
+  - __Mrtvé mládí__ – vzpomíná na své krátké osamělé mládí
+  - __Moje matka__ – vzpomíná na svou mrtvou matku
+- __Svítání na západě__ (1896)
+  - dále prohlubují symbolické myšlenky
+  - západ = smrt (vysvobození z pozemských strastí), svítání = život (duchovní život jako jediná skutečná hodnota)
+- __Větry od pólu__ (1897) – vrcholí jeho oproštění od vnějšího světa, nejabstraktnější sbírka o tajemných dálkách, smrti a vesmíru, hledá tajemnou vůli, která ovládá svět
+  - nakonec sestupuje na zem a zjišťuje, že život se má žít na zemi
+- __Stavitelé chrámu__ (1899) a __Ruce__(1901)
+  - spojují pozemský život a poznávání vesmíru, sní o lepším světě
+  - lidé by se měli spojit a snažit se žít co nejlépe
+
+### František Xaver Šalda (1867–1937)
+- divadelní literát, literární kritik s obhajobou vztahu mladých umělců k modernímu umění
+
+__Synthetism v novém umění__
+- zasvěcený pohled na moderní evropskou poezii, představil svůj vlastní umělecký program, podle něhož má umění zobrazovat člověka a lidstvo komplexně, v pohybu, spoluvytvářet život.
+- stal se kritikem proti své vůli × byl vzdělaný a dobrý
+- po nemoci se stal zajatcem vlastní pracovny → založil si časopis __Šaldův zápisník__ – všechno, dodnes inspirativní
+- __Boje o zítřek__
+  - Kritika dnešní obrody aplikovaného umění – umění a život by se neměly oddělovat, ale navzájem dotvářet
+  - Kritika patosem a inspirací – kritika je umění samo o sobě, kritik musí být schopen pochopit dílo a udělat z něj závěr
+
+- __Duše a dílo__ – portréty romantismu
+- __Kritické eseje__
+  - __Mácha, snivec a buřič__
+#### vlastní umělěcká tvorba
+- __Loutky i dělníci boží__ – román
+- __Zástupové__ – romantický rozpor mezi davem a vůdcem – drama
+- __Dítě__ – mravokárná hra o matce s nemanželským dítětem (stigma) – drama
+
+
+__Hloupý Honza__ – Symbol českého národa
+__

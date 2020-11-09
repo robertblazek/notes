@@ -3,7 +3,7 @@ attachments: [Struktura_právního_řádu.png]
 tags: [Notebooks/SV]
 title: Politologie
 created: '2020-09-08T09:46:51.383Z'
-modified: '2020-09-29T08:21:06.954Z'
+modified: '2020-10-16T12:03:31.635Z'
 ---
 
 # Politologie
@@ -127,4 +127,15 @@ modified: '2020-09-29T08:21:06.954Z'
 - státní občanství ČR
   - vzniká narozením, osvojením, nalezením na území ČR :D, prohlášením, udělením
   - zaniká prohlášením, nabytím cizího občanství...
-  
+  ### ústava
+- nejvyšší právní akt v ČR
+- upravuje základní principy a funkce státu, organizaci veřejné moci, územní samosprávu a základní práva a svobody občanů
+- ostatní právní normy z ní mají vycházet a být s ní v souladu
+- přijímána zákonodárným sborem (ústavní většina) × přímým hlasováním obyvatelstva
+- princip rozdělení mocí
+- princip brzd a rovnováh
+- způsob volby (jmenování) nejvyšších státních úředníků, zábrana proti využití státní moci proti občanům
+- __preambule, 8 hlav, 113 článků__
+
+## Politika a politické subjekty
+

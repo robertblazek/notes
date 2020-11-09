@@ -2,7 +2,7 @@
 tags: [Notebooks/D]
 title: Osvícenský absolutismus ve střední Evropě
 created: '2020-09-02T09:36:07.999Z'
-modified: '2020-09-14T09:28:44.892Z'
+modified: '2020-09-30T09:04:34.015Z'
 ---
 
 # Osvícenský absolutismus ve střední Evropě
@@ -161,6 +161,66 @@ __→ přišla o Slezsko a Kladsko__
 - nutnost posílit obranyschopnost státu
   - → Terezín a Josefov
 #### tereziánské a josefínské reformy
-- osvícenský nacionalismus
-- __cíl:__ jednotný, vojensky silný, přísně centrálně spravovaný stát
-- snaha odstranit stavovský systém – překotné zavádění zákonů
+> - osvícenský nacionalismus
+> - __cíl:__ jednotný, vojensky silný, přísně centrálně spravovaný stát
+> - snaha odstranit stavovský systém – překotné zavádění zákonů
+- reforma daňového systému
+  - donutila české a rakouské stavy schválit výši daní na 10 let dopředu
+  - výběr zajišťovaly státní úředníci a vrchnost
+    - __→ stavy přišly o nástroj nátlaku na panovnici__
+  - nechala pořídit soupis poddaných a jejich půdy
+    - __→ daně platili jenom poddaní__
+  - __josefínský katastr__ – upravil vztahy mezi `rustikálem` = poddanský majetek a `dominikálem` = šlechtický majetek
+    - __→ zdanil i šlechtu__
+- reformy státní zprávy (netýkalo se uher)
+  - centrálně řízená státní správa
+  - namísto šlechty stát spravovali státní úředníci = `byrokraté`
+  - zrušena česká a rakouská dvorská kancelář, zřízen __Nejvyšší soudní dvůr__ a __Úřad pro věci politické a finanční__
+  - některé země přestaly pro státní správu existovat, staly se pouze provinciemi
+  - všechny zemské úřady se nazývaly `gubernia`, podléhala ústředním úřadúm ve vídni
+  - nejvyšší stupeň státní správy – krajští `hejtmani`
+- reformy trestního práva a soudních pravomocí
+  - rovnost před zákonem, vrchnost ztratila trestní pravomoci
+  - zaveden `apelační soud`, který řešil případná odvolání proti rozsudku
+  - zrušeno útrpné právo, na krátkou dobu i trest smrti
+- změna vztahu státu k církvi
+  - církev má sloužit státu, ne naopak
+  - skončila rekatolizace
+  - __1781 – toleranční patent__ (luteránství, kalvinismus, pravoslaví)
+  - generální semináře místo biskupských – spravované státem, kněží vzděláváni v duchu osvícenství → šíření osvěty
+  - rušení klášterů (__1773 – papež zrušíl jezuitský řád__)
+  - omezení počtu svátků
+- změny postavení židovského obyvatelstva
+  - 1797 systemální židovský patent
+  - začíná se používat příjmení
+- reformy sociální a hospodářské
+  - 1775 – upraveny robotní povinnosti
+    - poddaní se domnívali, že jim bylo zatajeno, že robota byla zrušena → největší selské povstání u nás, sedláci poraženi u Chlumce
+  - 1781 – patent o zrušení nevolnictví
+    - poddanské povinnosti zůstaly
+  - `raabizace` = návrh Karla Antona von Raaba na převádění robot na peněžní platby
+- školské reformy
+  - škola měla vzdělávat a vychovávat k občanství
+  - __1774 – zavedena povinná školní docházka__
+    - nejnižší česky, včechny vyšší něměcky → __sílí germanizace__
+### Leopold II. (1790–1792)
+- velkovévoda toskánský
+- __1791 král český (uherský, císař římské říše)__
+  - čechy byly nejosvíceněji spravované území v Evropě
+  - nechal se korunovat v Praze, kde vyslechl projev J. Dobrovského o významné a nedoceněné roli slovanských obyvatel v mezinárodní habsburské říši a apeluje, aby se obyvatelstvo mohlo vzdělávat v češtině = `austroslavismus` – __později politická koncepce 19. stol__
+    → Leopold podepsal statut nově zřízené stolice Českého jazyka a literatury – předseda František Martin Pelcl
+- reformy se zastavily kvůli Velké Francouzské revoluci
+#### Kultura
+- baroko – vrcholí za Karla VI.
+- rokoko
+- klasicismus (W.A. Mozart)
+__počátky národního obrození__
+- __1781 – Stavovské divadlo__ – odpolední hry v češtině
+- zájem o vědu
+  - 1784 – Královská společnost nauk
+- od r. 1742 – Zednářská lóže
+  - tajný spolek, jehož členové chtěli využít svůj život pro blaho lidstva, podporovali sociální péči, umění, vědu...
+  - založili původní Královskou společnost nauk
+  - libovali si v symbolech, tajili co dělají → šířily se o nich nesmysly
+  - __František Antonín hrabě Špork__
+    - Kuks – Braunovy sochy ctností a neřestí; jedna z nejstarších lékáren
