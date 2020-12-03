@@ -2,7 +2,7 @@
 tags: [Notebooks/Literatura]
 title: Světová próza 1. poloviny 12. století
 created: '2020-11-02T07:09:36.275Z'
-modified: '2020-11-05T12:20:57.402Z'
+modified: '2020-12-03T12:31:27.036Z'
 ---
 
 # Světová próza 1. poloviny 12. století
@@ -67,6 +67,7 @@ modified: '2020-11-05T12:20:57.402Z'
   - Kurt Schwitters
 - __surrealismus__
   - __psychycký automatismus__ – snaha vyjádřit skutečný psychický průběh myšlení, sestavuje koláže
+    - založený na asociační metodě
   - Max Ernst, Salvador Dalí, Joan Miró
 2 fáze: 
   - intuitivní období (1919–1925)
@@ -108,3 +109,259 @@ surrealismus se postupně rozpadl, byl poslední velké hnutí avantgardy
   - úvodní báseň cyklu __Alkoholy__
 - __Kaligramy__ (1918)
   - pokus spojit poezii s výtvarným uměním
+
+### Paul Eluard
+- básník, esejista, překladatel a kritik výtvarného umění
+- zápasil se zdravím, trpěl plicní chorobou
+- Saint–Denis, cesty po evropě
+- avantgarda, unanimismus, dada, surrealismus
+- __Veřejná růže__ (1934 – surrealismus)
+  - žena, princip života, ideální společnoce v hovoru
+  - polibek
+- __Poezie a pravda__ (1942)
+  - Svoboda
+
+### André Breton – zakladatel a teoretik surrealismu
+- vyjadřoval stanoviska ke společenským, psychologickým a uměleckým otázkám
+- použita soustavná technika automatizovaného záznamu a koláže
+- 2 vývojové fáze:
+  - intuitivní období
+  - ...
+
+- Nadja (1928) – experimentální surrealistická próza
+- teoretické stati se mísí s fabulační rovinou
+- __první část__ – úvahy se porlínají s popisy událostí = umělecko–kritické úvahy
+  - pntologické, noetické, etické a sociální
+- __druhá část__ – milostný příběh: Nadja a André
+  - forma deníku (4.10.-17.10.1926) – líčení lásky
+  - rozpad časové a tematické roviny na zlomky příběhů
+  - místo popisů fotografie a kresby
+
+### Anatole France
+- Ostrov tučňáků – satirický román paroduje dějiny francie a historiografii
+
+- autor v předmluvě předstírá seriózní přístup při sepisování historie tučňáků
+
+### Romain Rolland
+- demokratický proud 
+- prozaik, dramatik, historik a znalec hudby
+
+### André Gide (1869-1951)
+- prozaik, dramatik, 1947 – nobelova cena
+- __Návrat ze SSSR__ (1936)
+  - poukázal na okolnosti stalinského režimu
+- __Penězokazi__ (1925) – román v románu
+  - snaha vystihnout složitou problematiku umělecké tvorby
+  - prostředí měšťanských vrstev žijících v paříži, kde mladí lidé vzdorují proti svým rodičům
+  - kombinuje se s jeho vlastním životem a jeho homosexualitou
+- __Zemři a živ budeš__ (1926) – otevřeně se přiznal ke své homosexualitě
+
+### Henry Barbusse (1823-1935)
+- __Oheň__; deník bojového mužstva (1916) 
+  - nemá ústředního hrdinu, vychází z autorových zkušeností, kdy narukoval na frontu a s dokumentární přesností vylíčill život prostých vojáků na frontě, v bitvě a v zákopech
+  - první z řady antimiliaristických děl ve světové literatuře
+
+### Antoine de Saint-Exupéry (1900-1944)
+- publicista, prozaik
+- letecké romány – reportáž, dokument, kde zachycuje okolnosti bezprostředního ohrožení života
+- __Kurýr na jih__
+- __Noční let__
+- __Malý princ__ (1942) – filozofická pohádka s vlastními ilustracemi
+  - Zklamán neopětovanou péčí staraje se o květinu, procestoval 7 planet
+  - na Zemi potkal lišku
+  - to, co je krásné je očím neviditelné
+  - obecně uznávané hodnoty světa jsou nesrovnatelné s dobrotou srdce, přátelstvím a láskou
+  - vede čtenáře k zamyšlení nad pravými hodnotami lidského života
+
+# Proměny moderní prózy
+- 1\. sv. válka - otřesena vnitřní jistota člověka – nervozita ze vzestupu technologií
+- soupeření protikladných systémů
+- země demokratické vs. země totalitní
+- vzestup fašismu
+- rozpad lidské osobnosti do 2 sfér – soukromé a veřejné
+
+---
+- ubývá dějovost
+- narůstá subjektivnost
+- prolínání časových rovin
+- ich–forma
+- podtext (spisovatel zamlčuje a nechá čtenáře domýšlet a hodnotit)
+
+### Marcel Proust (1871-1922)
+- trpěl na astma, centrem jeho života byla rodina
+- zkoumal proud vědomí
+- __Hledání ztraceného času__ – románový cyklus, 7 dílů
+  - vzpomínání
+  - rozkládá život do několika rovin
+  - ukazuje, jak každý člověk vnímá svůj čas
+- __Swannova láska__ – psychologická studie vývoje lásky
+
+## Anglická próza
+### Rudyard Kipling (1865-1936) – 1. nositel Nobelovy ceny za literaturu
+- __Kniha džunglí__ (1894-1895)
+  - Mauglí, Balů, Panter, Bakíra, Ká, Šerchán...
+
+### John Galsworthy (1867-1933) – Nobelova cena za literaturu
+- __Sága rodu Forsytů__ (1922)
+  - viktoriánská Anglie, základem původně samostatný román Bohatec
+  - velice dravý podnikatel s konzervativními názory na rodinu a společenské uspořádání, nejvyšší hodnotou mu byl majetek
+### David Herbert Lawrence (1885-1930) – řeší vztahy, vazby uvnitř rodin, sílu instinktu a lidskou vášeň
+- __Milenec lady Chatterleyové__ (1928) – poprvé vyšel ve Florencii, protože Britské soudy prohlásily, že jde o pornografii
+  - sídlo Wragby
+  - Constance–Connie
+  - Clifford 
+  - Oliver Mellors
+  - Manžel Clifford odveden na frontu, zraněn, vrátí se ochrnutý od pasu dolů. Rodina se usadí poblíž hornické vesnice Tevershall, Connie takový život neuspokojuje. Ze stereotypu ji vytrhují procházky po lesích, při kterých se seznámí s Cliffordovým hajným, zamilují se a Connie vstupuje do mileneckého vztahu. Connie nakonec otěhotní a manžela opustí.
+  - 3 prostředí: dům, vesnice, les 
+
+### James Joyce
+- Komorní hudba  (1907) – sb.
+- __Dubliňané__ (1914) – povídky
+  - popisuje, kde žijí hrdonové příběhů, kde se setkávají a kudy procházejí
+- Portrét umělce v jinožských letech (1916) – román
+- __Odysseus__ – 3 svazky
+  - autor vythořil rozměrný, pestrý a tragikomický obraz jediného dne se snahou zachytit život v jeho nejbanálnější formě
+  - putuje mezi bytem, tiskárnou, hospodami a nevěstincem, vrátil se do dublinu kvůli smrti matky
+  - řada synonym, nová slova, faktická propracovanost
+
+### Virginie Woolfová
+- její otec byl přímým symbolem viktoriánství, ona v opozici vůči všemu, co otec představoval
+- Bloomsbury group
+- obdivovala ruské romanopisce a jejich schopnost pronokat pod lidk=skou duši
+- __Skvrna na zdi__ (1917) – povídka
+  - seděla v pokoji, kouřila, a viděla na zdi skvrnu – 7x na ni pohlédla a 7x zahlédla něco jiného
+  - [x] ve skutečnosti byl na zdi hlemýžď
+  - hlemýžď dal dílu jednotu, a stal se jedním z motivů jejich dalších próz
+  - soustředila se na vnímání duševních stavů lidí, času a myšlenek
+  - __Zahrady v Kew__ (1919) – povídka
+  - __Moderní próza__ (1925) – esej
+  - __Paní Dallowayová__ (1925) – román
+    - jeden den v životě Clarissy Dallowayové, těsně s ní spjatých
+    - zachycuje setkání postav, z nichž vetšina skončí na Clarissině večírku
+  - __K majáku__ (1925) – román
+    - pokus o maximálně subjektivní introspektivní prózu, již lze označit jako literární impresionismus
+    - odehrává se na jednom místě (starý rodinný dům Ramsayových) – vystupují zde pan a paní Ramsayovi, malířka Lily, malý James
+    - okno – zaujímá paní Ramsayová se způsobem, jak pečuje o svou rodinu – portrét zevnitř i zvnějšku
+    - přání malého Jamese vyjít si k majáku
+    - pozastavuje se nad ztrátou milovanách lidí, věcí a všeho co člověka obklopuje (válka, rozpady vztahů, smrt paní Ramsayové)
+
+# Německá próza 1. pol. 20. stol.
+### Erich Maria Remarque (1898 – 1970)
+- tzv. "ztracená generace": Gertruda Steinová
+
+- v 18 odešel do německé armády
+---
+
+- __Na západní frontě klid__
+  - pokud podat zprávu o generaci zničené válkou, i když unikla jejím granátům
+  - suchý a naturalistický popis vánočních detailů
+  - __přečíst__
+- __Tři kamarádi__ (1937)
+  - tři kamarádi Anton, Robert a Gottfried mají autodílnu v době válečné krize
+- __Černý obelisk__ – inflace v době výmarské republiky
+- __Miluj bližního svého__ – příběh hocha, který utíká před nacismem
+- __Vítězný oblouk__ (1946) 
+- __Čas žít a čas umírat__ (1954)
+- __Nebe nezná vyvolených__ (1961)
+  - Bobby Deerfield (1975) – film
+
+### Arnold Zweig (1887–1968)
+- prozaik a dramatik, esejista
+---
+???
+
+
+### Heinrich Mann (1871–1950)
+- prozaik, dramatik, esejista
+- Lübeck – měšťanská rodina, později v Mnichově, později i v čechách (Proseč u Skutče)
+- kritické až satiricky groteskní zobrazování společnosti své doby
+- __Profesor Neřád__ (1905)
+  - Profesor Raat, který učil latinu a řečtinu na gymnáziu. Na studenty byl velice přísný, slídil a sbíral informace o svých studentech,navštěoval hostince s výhodou. Patologicky se zamiluje do Fröhlichové, pořádaje orgie, nevšimne si, že se sám řítí do záhuby.
+  - V kruzích německé buržoazie přijato s nevolí, čtenáři z lübecky nepochopili, že to je o nich.
+- __Císařství__ – trilogie: militarismus, nacionalismus, nacismus
+  - __Poddaný (1914)__ – německé šosáctví (šosák = lstivý patolízal, čím více se ponižoval, tím více rostly jeho tyranské choutky směrem dolů)
+  - __Chudí (1917)__ – dělnictvo
+  - __Hlava (1925)__ – vůdcové
+
+- __Buddenbrookovi__ – román
+  - 4 generace obhodnické rodiny
+  - Jan – rodinná firma
+  - Jan – konzul
+  - Tomáš – senátor
+  - Hahno
+  - komplikované motivy, subjektivita postav, introspekce; různí členové rodu znározňují různá stádia úpadku
+  
+- Josef a bratři jeho
+  - Josef, nejmilovanější z 15 synů patriarchy Jákova, kteří se stali předáky izraelských kmenů, z nichž se staly ... Byl prodán jako otrok do Egypta, kde se stal faraonovým místodržícím a předsedou říše, nakonec k sobě pozval své bratry, aby založili novou vlast v Egyptě.
+
+- Doktor Faustus (1947): Život hodebního skladatele Adriana Levenkühna – filozoficky pojatý román
+  - ocitl se v úpadku, ochoten přistoupit na cokoli, pokud to pro něj bude znamenat přínos – faustovský motiv
+  - poslední skladba, Lkaní a naříkání doktora Fausta, je variací na Beethovenovu symfonii
+  - Na pozasí osudů Adriana Leverkühna se promítají kulturní a politické dějiny Něměcka a propast k nacismu.
+
+### Lion Feuchtwanger
+- ve velké míře se zabýval dějinami židů
+- na začátku války pobýval v USA, do Německa se pak již nevrátil
+- volil si témata, která se nějakým způsobem vyjadřovala k soudobému dění
+---
+- __Ošklivá vévodkyně__ (1923) – středověký román
+  - o rozvodu a vztazích Markéty Korutanské a jejího manžela
+- __Žid Süss__ (1925)
+  - 30\. léta 18. století
+  - Hl. postavou je židovský finančník Süs Oppenheimer. Shodou okolností se stane Wüttemberským vévodou, spolu s ním se na vrchol moci dostává i Žid Süs. 
+  - Vévoda se pokusí znásilnit jeho dceru, ta pak nešťastně zemře. Süs se chce pomstít, je ale odhalen a popraven jako židovský mučedník.
+- __Josephus Flavius__ (1932-1942)
+  - rozsáhlá trilogie o židovském odboji
+- __Čekárna__ (1933-1939)
+  - zachycuje vzestup fašismu, první měsíce Hitlerovy vlády a útrapy Židovské emigrace
+- __Nepravý Nero__ (1953) – historická satira, alegorie fašismu
+- __Židovka z Toleda__ (1955) – středověk
+
+__osobnosti:__
+- Lišky na vinici (1948) – Benjamin Franklin
+- Goya (1951)
+- Bláznova moudrost (1952) – VFR, Jean Jacques Rousseau
+
+## Něměcká židovská pražská literatura
+- autoři spjatí s Prahou, považováni za svébytnou součíst něměcké literatury
+
+### Franz Kafka
+- považován za zakladtele moderní literatury
+- stal se obchodníkem pojišťovny, práce ho však ubíjela, cítil se nešťastný
+- rozešel se se židovskou obcí, nesplynul ale ani s pražskými Němci, ani s Čechy
+- jeho 3 pokusy o rodinu ztroskotaly, cítil se osamělý a izolovaný
+- byl velmi plaché povahy, velice citlivý, trpěl tuberkulózou, jíž nakonec podlehl
+- __Milena Jesenská__ – levicově smýšlející novinářka
+  - korespondenční přátelství, právě tyto dopisy vypovídají o Kafkově vnitřním světě
+  - pracovala pro časopis Tribuna, Národní listy, Lidové Noviny
+  - kvůli svému smýšlení skončila v koncentračním táboře
+- jak byl Kafka anonymní ve společnosti, tak byli anonymní i hrdinové jeho próz, nevíme jak vypadají, neznáme jejich vnitřní svět, snaží se proniknout k jakémusi tajemnému zámku
+- Kafka nezobrazuje psychologické pochody svých postav, protože byl přesvědčen, že vnitřní život se prožívá, ale nemá se popisovat.
+- Dílo doceněno až po 2. sv. válce, jeho interpretace se liší svou rozdílností až protichůdností
+- někteří lidé  něm vidí pokračování židovských až křesťanských tradic, zatímco jiní v něm nacházejí prvky existencionalismu až surrealismu
+---
+> proces – přečíst + otázky
+
+- __Proces__ (1925)
+  - Josef K. – bankovní úředník
+  - K přichází večer do jakési vesnice, je pozvín an zámek a obává se, že obyvatelé zámku (jakési anonymní panstvo) chce pověřit jakýmsi úkolem. K se snaží do cesty postavot překážky, aby mu zabránili se na zámek dostavit. 
+- __Amerika - nezvěstný__
+  - Karel Rossman, za trest ho poslali do Ameriky
+  - Je velmi citlivý, bezelstný, naráží jen na nepokoj a zlo   
+-
+### Max Brod
+- monografie o Leoši Janáčkovi
+- dramatizace osudů vojáka Švejka
+
+### Franz Werfel
+- prozaik, dramatik, básník
+-- žil ve Vídni, uprchl do USA, kde v roce 1945 zemřel
+- __Verdi__ (1924)
+- __40 dnů na Musa Daghu__ (1933)
+- __Píseň o Bernadettě__ (1941)
+- __Jacobowski a plukovník__ (1944)
+  - v protileteckém krytu malého pařížského hotelu se setkávají žid Jacobowski a plukovník Stierbinski
+  - vytýká evropským zemím lhostejnost, s jakou se stavěli k rozpínavé fašistické politice za 2. sv. války, 
+
+### Gustav Meyrink (1868–1932)
+- __Golem__
