@@ -2,7 +2,7 @@
 tags: [Notebooks/B]
 title: Člověk
 created: '2020-11-06T12:19:33.575Z'
-modified: '2020-11-27T12:29:23.907Z'
+modified: '2020-12-09T07:27:07.895Z'
 ---
 
 # Člověk
@@ -122,5 +122,9 @@ kosti se prodložují pomocí růstových chrupavek
 - tkáňový mok a krev jsou odděleny stěnami cév, tkáňový mok neobsahuje bílkoviny
 - K+, Mg2+, Po4(2-)
 - Plazma (55%), Elementy (45%)
+#### sráčení krve
+- fibrinogen → fibrin(ová síť) → krevní koláč/strup (vysychá, postupně se smršťuje)
+
 
 ### Fyziologický roztok – podobné vlastnosti jako mořská voda
+
