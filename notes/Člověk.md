@@ -2,7 +2,7 @@
 tags: [Notebooks/B]
 title: Člověk
 created: '2020-11-06T12:19:33.575Z'
-modified: '2020-12-09T07:27:07.895Z'
+modified: '2020-12-11T07:33:54.572Z'
 ---
 
 # Člověk
@@ -122,9 +122,29 @@ kosti se prodložují pomocí růstových chrupavek
 - tkáňový mok a krev jsou odděleny stěnami cév, tkáňový mok neobsahuje bílkoviny
 - K+, Mg2+, Po4(2-)
 - Plazma (55%), Elementy (45%)
-#### sráčení krve
+#### srážení krve
 - fibrinogen → fibrin(ová síť) → krevní koláč/strup (vysychá, postupně se smršťuje)
 
+### krevní skupiny
+|Krevní skupina|Aglutinogen (v červených k.)|Protilátky (v bílých k.)| zastoupení v %|
+|---|---|---|---|
+|A|A|anti-B|42%|
+|B|B|anti-A|12%|
+|AB|A i B|žádný|8%|
+|0|žádný|anti-A, anti-B|38%|
 
+### Rh-faktor
+Antigen D v membráně krvinek – podle Makaků Rhesus
+- pozitivní (+) – 
+- negativní (-) 
+- pokud je otec Rh+ a matka je Rh-, vznikají u matky protilátky, které způsobují těžkou novorozeneckou žloutenku
+
+### sedimentace krve 
+- cca. 2-8 mm/h
+- při zánětu k ní dochází rychleji
 ### Fyziologický roztok – podobné vlastnosti jako mořská voda
 
+# Obranný imunitní systém
+- schopnost organismu bránit se napadení a působení cizorodých látek nebo patogenů
+  - specifická
+  - nespecifická
