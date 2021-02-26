@@ -2,7 +2,7 @@
 tags: [Notebooks/D]
 title: Národní obrození a Myšlenkové proudy v 1. polovině 19. století
 created: '2020-12-09T12:01:31.362Z'
-modified: '2020-12-14T10:26:01.115Z'
+modified: '2021-01-18T10:16:17.802Z'
 ---
 
 # Národní obrození a Myšlenkové proudy v 1. polovině 19. století
@@ -124,4 +124,5 @@ _ __hudba__
   - právo volit a být volen (podle Jean Jacques Rousseau)
 
 - __Radikální demokraté__ – byli přesvdčeni, že demokracie pomůže vyřešit problémy sociální nespravedlnosti
+
 

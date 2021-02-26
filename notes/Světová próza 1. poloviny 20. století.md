@@ -1,11 +1,11 @@
 ---
 tags: [Notebooks/Literatura]
-title: Světová próza 1. poloviny 12. století
+title: Světová próza 1. poloviny 20. století
 created: '2020-11-02T07:09:36.275Z'
-modified: '2020-12-03T12:31:27.036Z'
+modified: '2021-01-25T07:25:34.003Z'
 ---
 
-# Světová próza 1. poloviny 12. století
+# Světová próza 1. poloviny 20. století
 - 1914 – 1918 válka
 - nové politické a velmocenské uspořádání světa
 - __versaillesko–washingtonský systém__
@@ -344,7 +344,7 @@ __osobnosti:__
 
 - __Proces__ (1925)
   - Josef K. – bankovní úředník
-  - K přichází večer do jakési vesnice, je pozvín an zámek a obává se, že obyvatelé zámku (jakési anonymní panstvo) chce pověřit jakýmsi úkolem. K se snaží do cesty postavot překážky, aby mu zabránili se na zámek dostavit. 
+  - K přichází večer do jakési vesnice, je pozván an zámek a obává se, že ho obyvatelé zámku (jakési anonymní panstvo) chce pověřit jakýmsi úkolem. K se snaží do cesty postavit překážky, aby mu zabránili se na zámek dostavit. 
 - __Amerika - nezvěstný__
   - Karel Rossman, za trest ho poslali do Ameriky
   - Je velmi citlivý, bezelstný, naráží jen na nepokoj a zlo   
@@ -365,3 +365,124 @@ __osobnosti:__
 
 ### Gustav Meyrink (1868–1932)
 - __Golem__
+
+# Americká próza
+### Sinclair Lewis (1885–1951)
+jeden z prvních laureátů na Nobelovu cenu za literaturu
+- __Hlavní ulice__ (1920)
+  - smutný přívěh knihovnice __Carrol Milfordové__, která se neuplatní ve městě, rezignuje a přizpůsobí se místním poměrům
+- __Babitt__
+  - vytváří typ typického amerického maloměšťáka, jehož hlavním ideálem je dobré bydlo
+  - kritizuje život ne moc chytrých, dobře situovaných občanů
+- __Arrowsmith__
+  - životní příběh nadanáho lékaře, bakteriologa a vědce, jehož práce je jeho životní vášní
+  - má se stát ředitelem zdravotního ústavu, ale zjistí, že tato kariéra ho neuspokojuje a vrací se k tomu, co má nejraději 
+  - motiv člověka, který se drží toho, co ho naplňuje a nežene se za kariérou
+
+## ztracená generace
+### __Ernest Hemmingway__ (1899–1961)
+prozaik a publicista, nositel Nobelovy Ceny za literaturu; z lékařské rodiny, stal se ale reportérem
+odešel jako dobrovolník do sanitních oddílů a byl těžce zraněn
+působil ve Francii jako zpravodaj amerických novin
+působil v Madridu a v Číně jako válečný dopisovatel 
+po 2. sv. válce pak žil střídavě na Kubě
+narazil na tvůrčí krizi, kterou léčil alkoholem, a nakonec se zastřelil
+- příznačná snaha oprostit se od formy, zachytit nejopravdovější životní prožitek a obvykle zobrazit člověka v mezní životní situaci, aby mohl projevit shou odvahu
+- __styl:__
+  - "princip ledovce" 
+  - dialogy nesou problémy hrdinů
+  - úsečnost, zkratkovitost, zámlky
+  - podtext – čtenářova schopnost proniknout až pod ledovec
+- miloval lov, box, dostihy a býčí zápasy
+---
+- __Fiesta__ (1926)
+  - Jake Barnes – muž, jemuž zmrzačení znemožňuje fyzické naplnění vztahu k milované ženě, hledá cestu dál
+- __Sbohem, armádo__ (1929)
+  - Frederick Henry
+  - Catherine Barkleyová
+  - Frederick se stará o sanitní vozy v armádě, v přesvědčení že hájí svobodu a demokracii. Je zraněn, při léčení se sbližuje s Catherine a prožívá s ní šťastné chvíle. Vrací se na frontu, Italové ustupovali, sanitky uvízly v koloně, Frederick chtěl zjistit, proč kolona stojí, zapletl se do konfliktu a byl odsouzen k trestu smrti. Frederick utekl, a po smrti své manželky opustil armádu. Uvědomil si, že armáda jsou jen nesmyslná jatka.
+  
+  - __Smrt odpoledne__ (1932) – býčí zápasy
+  - __Zelené pahorky africké__ (1935) – safari
+
+- __Komu zvoní hrana__ (1940), román
+  - občanská válka ve Španělsku
+  - Robert Jordan se má spojit s partyzány a připravit diverzní akci – vyhodit do vzduchu moc, aby nebyl možný přísun posil. Je vážně zraněn, zamiluje se do partyzánky Marie. Nakonec se rozhodne obětovat a bojovat do posledního dechu. Najde v sobě statečnost a hrdost a rozhodne se na chvíli zdržet pronásledovatele
+  - Žádný člověk není ostrov sám pro sebe, každý je kus nějakého kontinentu, část nějaké pevniny; jestliže moře spláchne hroudu, je Evropa menší, jako by to byl nějaký mys, jako by to byl statek tvých přátel nebo tvůj: smrtí každého člověka je mne méně, neboť jsem část lidstva. A proto se nikdy nedávej ptát, komu zvoní hrana. Zvoní tobě.
+- Stařec a moře (1952) – povídka, pobyt na Kubě
+  - poblíž Havany, 30. léta 20. století
+  - Rybář Santiago pravidelně jezdí na lov ryb, občas ho doprovází chlapec Manolin. Po 30 dnů se mu nepodaří nic ulovit a protože byl lov neúspěšný, rodiče chlapce nepustili na další lov. Až 30. dne zabral na Manolinovu návnadu obrovský mečoun, s nímž stařec dva dny a dvě noci bojoval. Uvažoval o svém vztahu k chlapci a o životě, rozmlouval s rybou, jíž měl za rovnocenného protivníka. Santiago bojoval o svůj úlovek a pak o svůj vlastní život...
+  - vypovídá o marnosti lidského snažení, zobrazuje člověka, který bez ohledu na námahu, překážky a utrpení jde za svým cílem a tváří v tvář smrti prokazuje odvahu, odhodlání a bojuje za svou čest
+  - hlavním zdrojem uspokojení není zisk, ale pocit z dobře odvedené práce
+  - vztah člověka s přírodou, generační solidarita chlapce a starce
+  - křesťanská symbolika – těžké lano jako kříž na starcových zádech, stigmata na jeho dlaních
+  - stařec může být alegorií člověka, ryba alegorií přírody, a žraloci alegorií zla
+
+### __Francis Scott Fitzgerald__ (1896 – 1940)
+- __Velký Gatsby__ (1925)
+  - New York a Long Island; 20. léta 20. století
+  - Daisy 
+  - Nick Carraway = soused a vypravěč
+  - Daisy, která řídí Gatsbyho auto srazí Myrtle, posílá Wilsona za Gatsbym, ten ho zastřelí, protože ho pokládá za svůdce své ženy.
+  - __Gatsby__ = literární typ, člověk z provincie, který se snaží žít americký sen
+  
+### John 
+- vystřídal různé výrazové polohy:
+  - romantičnost X determinující naturalismus
+  - sardonický humor X mystická symbolika
+- __O myších a lidech__
+  - básník na poli vyoral myš i s jejím doupětem a rozjímá nad jejím osudem
+  - "a přece šťastnější jsi mne, trápí tě jen zlo přítomné..."
+
+# Ruská a sovětská próza
+### Maxim Gorkij (1868–1936)
+- prozaik, básník, esejista
+beletrizované memoáry
+- __Dětství__ (1914)
+- __Do světa__ (1916)
+- __Moje univerzity__ 
+bosácké období
+- __Makar Čudra__ 
+- __Čelkaš__ (1895)
+- __Malva__ (1897)
+- __Stařena Izergil__ (1895) – legenda
+dramata
+- divadlo MCHAT
+- německý režisér Max Reinhardt
+- __Měšťáci__ (1901)
+  - bezvýhodnou situaci odlehčují nevinné lži tuláka Luky, které však situaci pouze zlehčují
+  - "neponižovat člověka lítostí, ale místo toho si ho vážit"
+### Michail Alexandriovič Šolochov (1905 – 1984)
+- nositel nobelovy ceny za literaturu
+- __Donské povídky__ (1926) – prvotina
+- __Tichý don I. – IV.__
+- __Rozrišená země__
+- __Osud člověka__
+
+### Isaak Babel
+- Antonovská Jablka (1900) – chudnoucí aristokracie a mizející šlechtická hnízda
+- Pán ze San Franciska (1915) – proslulá novela
+- Míťova láska (1924) – psychologická novela o lásce, prudké citové vzplanutí a vývoj lásky mladých lidí oscilující mezi přitahováním a odpuzováním něhou a žárlivostí
+
+### Michail Bulgakov 
+#### divadelní hry
+- Dni Turbinových (1926) – drama z občanské války
+  - Děj se odehrává v nejkrvavějším roce občanské války v roce 1919 v Kyjevě, zobrazuje osudy bílých, kteří stáli proti rudým.
+- Zojčin byt – satirická hra
+- Moliére (1930) – konflikt umělce s mocí
+- Puškin. Poslední dny (1940)
+#### povídky proti režimu
+- Psí srdce (1925; 1987)
+  - Sledujeme lékaře, který vytvoří umělého sovětského člověka
+- Útěk
+- Zápisky mladého lékaře
+#### romány
+- Mistr a Markétka
+  - promyšlená kompozice
+  - citát z Goethova Fausta
+  - 2 části, ve druhé v popředí Markétka
+  - __3 vlájemně se prolínající dějové a významové linie__
+    - 1\. groteskní a satirická rovina – Moskva ve 30. letech 20. století, Masolit
+    - 2\. román o Pilátu Pontském – o ukřižování Jesuy-Ha Nocriho = román v románu s filozofickým jádrem
+    - 3\. příběh mistra (umlčený profesor historie) a Markétky 
+  - novodobá variace na Goethova Fausta, Markétka není oběť, ale rovnocenná partnerka

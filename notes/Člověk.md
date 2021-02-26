@@ -2,7 +2,7 @@
 tags: [Notebooks/B]
 title: Člověk
 created: '2020-11-06T12:19:33.575Z'
-modified: '2020-12-11T07:33:54.572Z'
+modified: '2021-02-10T07:36:22.939Z'
 ---
 
 # Člověk
@@ -146,5 +146,77 @@ Antigen D v membráně krvinek – podle Makaků Rhesus
 
 # Obranný imunitní systém
 - schopnost organismu bránit se napadení a působení cizorodých látek nebo patogenů
-  - specifická
+  - specifická – lymfocyty
   - nespecifická
+# Krevní oběh
+- pravá komora, poloměsíčitá chlopeň, plicnice, pravá a levá plicní tepna, plíce, levá síň, dvojcípá chlopeň, levá komora, aorta, předání kyslíku a živin tkáním
+- obvod jaterní, ledvinový, koronární (výživa srdce)
+- __průřez tepnou__
+  - vazivový obal
+  - vrstva elastických vláken
+  - výstelka (endotel)
+  - dutina uprostřed = `lumen`
+- __průřez žílou__
+  - oválný průřez, tenčí vrstva elastivkých vláken
+- __průřez vlásečnicí__
+  - pouze endotel
+  - průměr 8 mikrometrů
+  - látková výměna probíhá pomocí difuze
+  - krevní plazma částečně přechází do tkáňového moku, který přechází do vlásečnic
+
+- krev koluje díky srdci, negativnímu nitrohrudnímu tlaku, svalovým pumpám
+- křečové žíly, trombóza, bércové vředy
+
+### srdce
+- uloženo v osrdečníku (pericard)
+- srdeční svalová tkáň 
+- __srdeční stah__
+  - sinusový uzlík, systola síní (komory se plní), krátká přestávka (přenos podráždění do komor), systola komor (smrštění), krev je vehnána do plicnice a do aorty, diastola (srdce relaxuje, přitáké krev z horní a dolní duté žíly)
+???
+- krevní tlak
+  - 100-160 mmHg (13-21 KPa)
+  - systolický a diastolický
+  - hypertenze a hypotenze
+- arterioskleróza – požkození/ucpání věnčitých a středních arterií
+  - může vést k infarktu myokardu nebo mozkové mrtvici
+  - nejčastější příčina úmrtí u nás
+
+# Mízní soustava
+- vede z mezibuněčných prostor do krve
+- kapiláry se postupně rozšiřují, spojují se v mízovody
+
+# Dýchací soustava
+- plicní ventilace
+  - výměna plynů mezi vzduchem a krví 
+  - výměna plynů mezi krví a tkáněni
+- tkáňové dýchání
+---
+- řídící centrum v prodloužené míše
+- mechanismus negativní zpětné vazby
+### část vodivá (dýchací cesty)
+dutina nosní (vedlejší dutiny nosní) -> nosohtlan (mandle, eustachova trubice) -> hrtan -> průrušnice (trachea) -> průdušky (bronchiální strom) -> průdušinky (bronchioly)
+- astma – křečovité stahy bronchu a bronchiol
+- pravá plíce větší než levá
+- plíce obalené v poplicnici
+### plíce
+- v pohrudniční dutině je podtlak, který nutí plíce se rozpínat
+- k výměně plynů dochází v plicních váčcích
+  - na stěnu plicních sklípků doléhají kapiláry
+  - povrch plicních sklípků je cca. 80m2
+  - v každém okamžiku se mění kyslík asi s 1 litrem krve
+- vdech: aktivní děj; bránice jde dolů, zvětšuje se hrudní dutina
+- výdech: pasivní děj; uvolnění svalů
+- bez úsilí vydechneme cca. 3l vzduchu
+- vitální kapacita plic = po maximálním nádechu maximální výdech
+
+#### kyslíkový dluh
+- kyslík na hemoglobinu
+- kyslík na dosažení tělesné teploty
+- kyslík na ozidaci kyseliny mléčné
+---
+- volní dýchání nemá prioritu nad fyzickou potřebou kyslíku
+
+#### nejčastější onemocnění
+- chřipka
+- TBC
+
