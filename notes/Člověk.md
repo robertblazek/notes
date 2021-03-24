@@ -2,7 +2,7 @@
 tags: [Notebooks/B]
 title: Člověk
 created: '2020-11-06T12:19:33.575Z'
-modified: '2021-02-10T07:36:22.939Z'
+modified: '2021-03-17T07:16:12.398Z'
 ---
 
 # Člověk
@@ -219,4 +219,24 @@ dutina nosní (vedlejší dutiny nosní) -> nosohtlan (mandle, eustachova trubic
 #### nejčastější onemocnění
 - chřipka
 - TBC
+
+## Trávicí soustava
+- __sliny__
+  - 99% z vody
+  - enzym `mucin` ve spojení s vodou tvoří hlen
+  - řízeno vegetativními nervy a podmíněnými reflexy
+- hltan a jícen
+  - zprostředkováno polykání
+    - 1\. fáze – částečně pod volní kontrolou
+    - 2\. fáze – sousto vstupuje do hltanu, vyvolán polykací reflex
+  - peristatické stahy – stahy a relaxace hladké svaloviny jícnu
+  - ovládáno vegetativním nervstvem, tkáňovými hormony
+- žaludek 
+  - přijatá potrava se mění na tráveninu
+  - průměrný objem asi 3,5l, maximální až 5l
+  - čím je potrava tučnější, tím v žaludku vydrží déle
+  - __kyselina cholrovodíková__ – způsobuje bobtnání vaziva, pepsin – štěpí bílkoviny
+  - deprese nebo strach snižují sekreci, rozčilení a agresivita zvyšují sekreci
+  - tvorbu žaludečních šťáv stimulují bílkoviny, alkohol a kofein
+
 
