@@ -2,7 +2,7 @@
 tags: [random]
 title: NJ
 created: '2021-03-24T15:34:43.251Z'
-modified: '2021-03-24T15:37:55.195Z'
+modified: '2021-03-24T15:38:48.185Z'
 ---
 
 # NJ
@@ -11,6 +11,6 @@ modified: '2021-03-24T15:37:55.195Z'
 |ich|mich|
 |du|dich|
 |er|ih**n**|
-|sie|sie|
+|sie/Sie|sie/Sie|
 |es|es|
 |wir|uns|
