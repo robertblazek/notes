@@ -2,7 +2,7 @@
 tags: [Notebooks/Literatura]
 title: Imaginativní próza
 created: '2021-04-12T06:04:25.510Z'
-modified: '2021-04-14T11:30:21.471Z'
+modified: '2021-04-19T06:19:22.561Z'
 ---
 
 # Imaginativní próza
@@ -65,3 +65,15 @@ __Konec starých časů__ (1934) – humoristický román
 __Jezero Ukereve__ (1935) – Uganda
 __Josefína__ (1941) – veselohra, variace na Pygmalion
 
+### Jan Havlíček
+__Petrolejové lampy__ (1935)
+- pohorské městečko a přilehlá vesnice na přelomu 19. a 20. století
+- Štěpka Kiliánová – přímé jednání (neotesanost)
+- Pavel – prostopášný důstojník, z vypočítavosti se ožení se Štěpkou
+- pohlavní nemoc – Pavel chátrá fyzicky a pak i duševně
+- psychologické proměny hlavní hrdinky
+
+__Neviditelný__ (1937)
+- psychoanalytická studie degenerované rodiny továrníka Hajna
+- strýc Cyril
+- Soňa Hajnová, ing. Petr Švajcar

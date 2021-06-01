@@ -1,11 +1,11 @@
 ---
 tags: [Notebooks/D]
-title: Bachovský neoabsolutismus
+title: Bachovský neonacismus
 created: '2021-04-12T09:02:14.266Z'
-modified: '2021-04-14T07:30:37.314Z'
+modified: '2021-05-26T06:58:15.338Z'
 ---
 
-# Bachovský neoabsolutismus
+# Bachovský neonacismus
 
 # Koloniální výboje mocností – 1880 - 1914
 - kolonialismus nabyl novéro rozsahu, který se označuje jako `imperialismus`
@@ -70,3 +70,36 @@ modified: '2021-04-14T07:30:37.314Z'
 ### Monroeova doktrína (1823)
 - 1\. Karibik
   - 
+
+## Válka severu proti jihu
+#### Thomas Jefferson (1801 – 1809)
+- 3\. americký prezident
+- USA po válce za nezávislost
+  - sever: průmyslový a farmářský
+  - jih: otrokářsko–plantážnický
+  - abolicionismus
+  - spory o zavedení otroctví v nových státech a spory o zavedení cel
+- Frederic Douglas a John Brown
+4.2.1861 – Konfederace států Ameriky – Jefferson Davis
+### Významné bitvy
+- 21.7.1861 u Bull Ran
+- 13.12.1862 u Fredericksburgu
+- 1.7.1863 u Gettysburghu
+- 15.6.1864 u Petersburghu
+- __9.4.1865 kapituloval Lee, později i Jefferson__
+### zvrat ve válce
+- 1862 – zákon o přidělování půdy
+- 1863 – zákon o zrušení otroctví
+  - revoluční charakter války
+  - posílení Unie (osvobození otroci)
+  - podpora demokratické veřejnosti Evropy – žádné diplomatické uznáni Konfederace
+- __14.4.1865 – Lincolnova vražda__
+### období rekonstrukce Jihu (1865 – 1877)
+- federální jednotky obsadily Jih
+- zrovnoprávnění černochů
+- ekonomický rozvoj celého národa
+  - těžba drahých kovů
+  - chov dobytka
+  - pěstování obilí
+  - stavba železnic
+  - od 1900 USA investují i v Evropě

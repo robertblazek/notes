@@ -2,7 +2,7 @@
 tags: [Notebooks/B]
 title: Člověk
 created: '2020-11-06T12:19:33.575Z'
-modified: '2021-03-17T07:16:12.398Z'
+modified: '2021-05-28T11:45:05.967Z'
 ---
 
 # Člověk
@@ -240,3 +240,44 @@ dutina nosní (vedlejší dutiny nosní) -> nosohtlan (mandle, eustachova trubic
   - tvorbu žaludečních šťáv stimulují bílkoviny, alkohol a kofein
 
 
+---
+### štítná žláza
+- nedostatek jódu vede ke kretenismu
+- __hypo/hyperthyreóza__ – vytváří se struma při nenormální činnosti štítné žlázy
+  - nižší tepová a dechová frekvence, hrubý hlas, zpomalená řeč, zpomalené myšlení, špatná paměť
+### nadledviny
+- kůra produkuje glukokortikoidy a mineralokortikoidy
+- __glukokortikoidy__
+  - kortisol – imunosupresivní, protizánětlivé účinky
+  - podávají se při transplantacích a alergiích
+- __mineralokortikoidy__  
+  - aldosteron – zvyšuje zpětné vstřebávání sodíku
+#### hormony dřeně nadledvin
+- adrenalin
+  - vylučování se zvyšuje ve stresových situacích
+  - zvyšuje tep, rozšiřuje cévy, zrychluje dýhání
+- noradrenalin
+  - zúžení cév, zvyšuje krevní tlak, 
+- oba zvyšují odbourávání tuků a glykogenu
+- ovládá je sympatikus
+stres
+- zvyšuje se produkce hormonů
+### slinivka břišní (pankreas)
+- má část exokrinní a endokrinní
+  - vylučuje pankreatickou šťávu do dvanáctníku a hormony do těla
+  - endokrinní část produkují Langerhangovy ostrůvky
+- __cukrovka__
+  - prvního typu – nedostatečné vylučování inzulinu
+  - druhého typu
+- hladina glukózy = `glykémie` (...hyper, hypo)
+- glukagon
+### brzlík
+- působí na lymfocyty
+### varlata
+- testosteron – ovlivňuje stavbu těla, typické mužské chování
+### vaječníky
+- estrogeny a progesteron
+- tělesné propozice, chování
+- ovlivňuje těhotenství
+### placenta (plodový koláč)
+- 

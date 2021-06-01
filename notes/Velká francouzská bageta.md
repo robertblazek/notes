@@ -1,11 +1,11 @@
 ---
 tags: [Notebooks/D]
-title: Velká francouzská revoluce
+title: Velká francouzská bageta
 created: '2020-11-09T10:35:03.270Z'
-modified: '2020-11-11T08:04:09.210Z'
+modified: '2021-05-26T06:58:35.764Z'
 ---
 
-# Velká francouzská revoluce
+# Velká francouzská bageta
 
 # 1789 – 1799
 nejvýznamnější událost století
