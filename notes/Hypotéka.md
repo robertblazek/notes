@@ -2,7 +2,7 @@
 tags: [Notebooks/SV]
 title: Hypotéka
 created: '2021-05-25T08:19:38.908Z'
-modified: '2021-06-01T08:30:49.651Z'
+modified: '2021-06-03T10:10:03.925Z'
 ---
 
 # Hypotéka
@@ -41,5 +41,7 @@ zájemce o hypotéku musí mít:
     - nesriózní 
 ### leasing
 - půjčka na auto
-- 
+---
+- nájem – obecní/státní byt
+- podnájem – soukromý byt
 

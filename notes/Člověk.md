@@ -2,7 +2,7 @@
 tags: [Notebooks/B]
 title: Člověk
 created: '2020-11-06T12:19:33.575Z'
-modified: '2021-05-28T11:45:05.967Z'
+modified: '2021-06-09T06:42:16.204Z'
 ---
 
 # Člověk
@@ -280,4 +280,74 @@ stres
 - tělesné propozice, chování
 - ovlivňuje těhotenství
 ### placenta (plodový koláč)
-- 
+- přirostlá ke stěně dělohy
+- při porodu vychází ven 
+## pohlavní hormony
+- estrogeny
+- progesterony
+- choriogonadotropin
+
+# Smyslové orgány
+základem jsou receptory – podnět převádí na nervovou aktivitu
+- __exteroreceptory__
+  - vjemy z vnějšího prostředí
+- __interoreceptory__
+  - vjemy z vnitřních orgánů
+- __proprioreceptory__
+  - informace ze svalů, slach a kloubů
+podněty, na které receptor reaguje se označují jako `adekvátní podněty`
+1. mechanoreceptory – podnětem mechanické podráždění receptoru
+1. fotoreceptory – podnětem je světelné záření
+1. chemoreceptory – podnětem je chemická sloučenina
+1. termoreceptory – podnětem jsou teplo a chlad
+1. nociceptory – podnětem bolest
+
+### mechanoreceptory
+- hmatové receptory, reagují na dotyk a tlak
+- zakončení s vazivovými pochvami
+- Paciniho hmatové tělísko
+- nejcitlivější jsou na špičkách prstů, špičce jazyka
+- nejdále od sebe jsou na zádech
+### proprioreceptory
+- zaznamenávají natažení svalů a šlach
+- dva typy receptorů – __svalová tělíska__ a __svalová vřeténka__
+- podílejí se na funkci rovnovážné soustavy
+### rovnovážné ústrojí
+~ statokinetické, vestibulární
+- rovnovážný orgán se nachází ve vnitřním uchu v kosti skalní, tam se nachází kostěný labyrint, který kopíruje blanitý labyrint
+- kolem blanitého labyrintu se nachází perilymfa, uvnitř něj je endolymfa
+__Části:__
+1. věnčitý váček (utriculus)
+1. kulovitý váček (succulus)
+1. 3 polokruhovité kanálky
+1. blanitý hlemýžď
+vlastní smyslové buňky mají vlásky, které zasahují do rosolovité hmoty s vápenitými krystalky (=`otolity`)
+- když změníme polohu hlavy nebo těla, otolity zatlačí na vlásky a vzniká nervový vzruch
+- vzruch je veden 8. hlavovým nervem (předsíňo-hlemýžďový), vede do mozkového kmene a mozečku
+odchylky postavení, rychlosti a směru hlavy a celého těla zaznamenávají __váčky__,
+zaznamenávají se pouze změny v pohybu
+- zrychlený přímočarý pohyb – váčky
+- zrychlený kruhový pohyb – kanálky
+
+#### rovnováha
+- statická – tělo v klidu
+- dynamická – tělo v pohybu
+- v případě přílišného dráždění rovnovážného ústrojí vzniká tzv. "mořská nemoc"
+
+### sluch
+- zaznamenávána frekvence vibrací a amplituda
+- nejcitlivější v rozsahu 1000-3000 Hz
+- počet kmitů na vlně určuje barvu tónu
+- rozlišíme cca 400 000 zvuků
+- vnější ucho – ušní boltec, zvukovod, bubínek
+- střední ucho – sluchové kůstky (kladívko, kovadlinka, třmínek)
+- chvění se převádí na oválné okénko
+- vnitřní ucho – kostěný hlemýžď, uvnitř něho je blanitý hlemýžď
+- na vibrace je citlivý __Cortiho orgán__, zatlačení na jeho membránu způsobuje nervový vzruch
+- vzniklý vzruch odvádí ušní nerv do mozkové kůry (spánkový lalok)
+
+### zrak
+- v každém oku je až 100 M tyčinek a čípků, 1,6M nervových vláken
+- __oční koule__
+  - bělima, cévnatka, sítnice
+  
