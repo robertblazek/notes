@@ -2,7 +2,7 @@
 tags: [Notebooks/Literatura]
 title: České meziválečné drama a divadlo
 created: '2021-05-25T08:57:59.361Z'
-modified: '2021-06-10T11:33:08.613Z'
+modified: '2021-06-22T09:20:18.114Z'
 ---
 
 # České meziválečné drama a divadlo
@@ -122,3 +122,40 @@ lyricko epická básnická skladba
   - formální propracovanost → střídání 11 a 12 slabičných veršů, trochej, sdružený rým
   - výrazný, nepravidelně se opakující refrén, jeho obměny (pesimismus vs. optimismus)
 - 
+---
+???
+---
+# 4. Meditativní poezie
+- pro poezii 20. let jsou příznačné různé program. skupiny s programy a manifesty
+- ve 30. letech volnější básnická uskupení → projevují se spíše jednotlivé básnické individuality
+
+## Bohuslav Reynek
+- básník, překladatel, grafik
+### b. sbírka Rybí šupiny (1922)
+- vliv expresionismu; sbírka básní v próze s výtvarným doprovodem Josefa Čapka
+## František Halas
+- básník, překladadatel, esejista
+### b. sb. Sépie (1927)
+- prvotina, prvky proletářské poezie i poetismu (ale pochnurné, tragické ladění)
+- obraz neradostných zkušeností (smrt matky, následky světové války) → melancholie, hořkost, disharmonie
+### b. skl. Staré ženy
+- 5 částí;autor metaforicky oslovuje části ženského těla (oči, ruce, vlasy, klín a tvář)
+- motivy zániku, tragický obraz žen na konci života
+### b. sb. Naše paní Božena Němcová
+- monotematický cyklus 17 básní
+- vyjadřuje nadšení a obdiv z krásy a statečnosti B.N.
+### b. sb. Ladění
+
+## Vilém Závada
+- básník a překladatel
+- 👶 se v Ostravě
+### b. sb. Cesta pěšky (1937)
+- společenská lyrika, smutný pohled na dobovou realitu
+### b. sb. Živote, díky (1977)
+- autobiograf. poezie, autorův testament a zamyšlení se nad vlastním životem
+
+## Vladimír Holan 
+- básník, překladatel
+- život v ústraní
+- náročná reflexivní a meditativní poezie, časté novotvary
+

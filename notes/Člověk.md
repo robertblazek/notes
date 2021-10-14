@@ -1,8 +1,8 @@
 ---
-tags: [Notebooks/B]
 title: Člověk
+tags: [Notebooks/B]
 created: '2020-11-06T12:19:33.575Z'
-modified: '2021-06-09T06:42:16.204Z'
+modified: '2021-10-13T11:42:18.881Z'
 ---
 
 # Člověk
@@ -350,4 +350,79 @@ zaznamenávají se pouze změny v pohybu
 - v každém oku je až 100 M tyčinek a čípků, 1,6M nervových vláken
 - __oční koule__
   - bělima, cévnatka, sítnice
-  
+
+### čich a chuť
+- asi 10 000 krát citlivější než chuť
+- nejvíce chuťových pohárků na špičce jazyka
+- __čichové buňky__ 
+  - čichový epitel na stropě nosní dutiny
+  - nervový vzruch odchází 1. hlavovým nervem
+
+### hmat
+- termoreceptory 
+  - volná nervová zakončení
+  - nejvíce na hřbetu ruky a na obličejí, nejméně v kůži zad
+    - chladových receptorů je v kůži asi 8x více
+- nociceptory
+  - bolest povrchová
+  - bolest hluboká (svaly, šlachy, okostice)
+- hmatové receptory
+dohromady tvoří tzv. kožní čidla, jejich kombinovanou činností vnímáme jevy jako hladkost a vlhkost
+
+# Pohlavní soustava
+v rámci nitroděložního vývoje se během 6. týdne rozlišuje pohlaví
+### pohlavní orgány ženy
+vnější orgány
+- stydké pysky
+- vestibulární žlázy
+- klitoris
+- topořivé těleso po obou stranách poševního vchodu
+vnitřní orgány
+- vaječníky (`ovaria`), vejcovody, děloha, pochva
+  - vaječníky 
+    - vývoj vajíček
+    - produkce hormonů
+
+--- 
+
+Pohlavně přenosné nemoci
+- syfilida - treponema palidum
+- kapavka - neisseria gonnorrhoeae
+
+## Vývoj dítěte
+### období
+- novorozenecké
+  - holý pupík, nevnímá, sací reflex a obranné reflexy
+- kojenecké
+  - 1. měsíc - 1 rok
+- batolecí - 1-3 roky
+- mladší školní věk
+  - 6 - 10 let
+- starší školní věk
+  - 10 - 15 let
+  - začínají se vyvíjet druhotné pohlavní znaky
+- dospělost – 18 - 30
+- zralost
+  - největší pracovní aktivita
+- střední věk
+  - menopauza
+
+# Genetika 
+- zakladatel Johan Gregor Mendel
+- křížil hrách
+- sledoval barvu květů, barvy a tvar semen, lusky
+- objevil určité zákonitosti
+
+### Francis Galton
+- sledoval nadání a další psychické vlastnosti u lidí
+### Charles Darwin
+- teorie o přirozeném výběru
+- přežije ten nejpřizpůsobenější
+### Archibald Garrod
+- popsal alkaptonurii = odchylky v genetice organismu, dědí se podle mendelových zákonů
+### Thomas Hunt Morgan
+- křížení mušek
+### James Watson, Francis Crick a Maurice Wilkins
+- popsali strukturu DNA
+
+

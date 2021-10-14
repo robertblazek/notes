@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "3128888287dca5ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cbedd815fdf2dd0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Anglická próza.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a55e0198d5d2685c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8280523bd62711e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ed1261a730785b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f40cf2e723dd5eeb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90ddb6168757ce4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1a0442d8801cf54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd69ac074d8c6783",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anglická próza.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6cbedd815fdf2dd0",
+  "lastOpenFiles": [
+    "Anglická próza.md"
+  ]
+}
