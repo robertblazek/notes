@@ -1,8 +1,8 @@
 ---
 title: Člověk
 tags: [Notebooks/B]
-created: '2020-11-06T12:19:33.575Z'
-modified: '2021-10-13T11:42:18.881Z'
+created: 2020-11-06T12:19:33.575Z
+modified: 2022-01-26T17:35:45.365Z
 ---
 
 # Člověk
@@ -424,5 +424,194 @@ Pohlavně přenosné nemoci
 - křížení mušek
 ### James Watson, Francis Crick a Maurice Wilkins
 - popsali strukturu DNA
+
+---
+- plně vyvinuté dělící vřeténko
+- centrioly
+- vlákna dělícího vřeténka jsou napojená na centromery
+
+### anafáze
+- chromozomy se rozdělí 
+- k opačným pólům buňky se rozchází chromatidy
+
+### telofáze
+- chromozomy se despiralizují, přestávají být viditelné
+- vytváří se jaderný obal
+- obnovují se jadérka
+- zaniká dělící vřeténko
+## meióza
+- redukční dělení
+- zaniká jaderná membrána 
+- zaniká jadérko
+- vzniká dělící vřeténko
+- homologické chromozomy se spojují k sobě a vytvářejí se tzv. chromatidové tetrády
+- CROSSING OVER = překřížení nesesterských chromatid homologických chromozomů
+
+
+---
+
+kodominance = obě alely se projeví stejnou měrou
+
+---
+křížení dvou stejných homozygotů
+
+|  | A | A |
+| --- | --- | --- |
+|__A__|AA|AA|
+|__A__|AA|AA|
+
+- stejní potomci = `uniformní`
+
+křížení recesivního homozygota s heterozygotem:
+P: `Aa` x `aa`
+F<sub>1</sub>: 
+|  | A | a |
+| --- | --- | --- |
+|__a__|Aa|aa|
+|__a__|Aa|aa|
+
+G: 1:1
+F: 1:1
+
+P: `Aa` x `Aa`
+F<sub>1</sub>: 
+|  | A | a |
+| --- | --- | --- |
+|__A__|AA|Aa|
+|__a__|Aa|aa|
+
+G: 1:2:1
+F: 3:1
+
+- jedná se o druhý mendelův zákon (zákon o segregaci alel a jejich kombinaci ve 2. generaci kříženců)
+- v genetice se vychází z křížení dominantního a recesivního homozygota
+# Monohybridismus s neúplnou dominancí
+- ve všech typech křížení jsou stejné štěpné poměry, jen fenotypové štěpné poměry jsou jiné
+- heterozygot vypadá jinak
+- vznik na vznik černého 
+
+## Vazbová skupina
+- takhle se označují geny na jednom chromozomu
+- nejmenší jednotka segregace a kombinace
+- místo genu na chromozomu = lokus
+- počet vazemných skupin = počtu chromozomů v sadě
+- geny vazbové skupiny se mohou nakombinovat při crossing over
+- čím jsou ty deny blíže sebe, tím ta vazba mezi nimi je pevnější
+
+### gonozomální dědičnost
+XY chromozomy jsou zčásti homologické a zčásti heterologické
+významné geny leží v té heterologické části chromozomu X
+nezáleží jen na dominanci a recesivitě, ale i na pohlaví
+- u člověka se uvádí asi 50 genů v chromozomu
+__hemofilie__ – krvácivost, špatné srážení krve
+__daltonismus__ – červenou a zelenou vidí šedě
+
+růže jsou rudé
+geny jsou na autozomech
+projeví se pouze v přítomnosti pohlavních hormonů
+
+---
+geny pro sekundární pohlavní znaky
+---
+- kvantitavní znaky podmiňuje větší počet genů malého účinku
+- geny mají dvě alely, když se počet genů značí _k_, počet možných genotypů je 3<sup>_k_</sup>
+- v polygenním systému jsou 2 typy alel
+  - neutrální alely – neovlivňují hodnotu znaku
+- i když jedinci mají stejný genotyp, mohou se znaky značně lišit
+- proměnlivost je ovlivněna vnějším prostředím, to je tedy nedědičná proměnlicost
+- heritabilita = podíl nedědičné a dědičné složky
+- celá proměnlivost je dána vnějším prostředím
+
+## mutace
+- genové
+- chromozomové
+- genomové
+Vznikají nahodile, jejich příčinu nejde vysvětlit. Jejich výskyt je nízký, četnost se uvádí cca. 10<sup>-5 – -10</sup> na jednu generaci.
+Indukované mutace – indukuje je nějaký mutagenní činitel. Nejčastěji se dělí na:
+- fyzikální – ionizující záření
+- chemické (chemomutageny) – kationty těžkých kovů, alkaloidy, peroxidy
+Pouze velmi malá část mutací je pro nositele výhodná, berou se jako vnitřní zdroj dědičné proměnlivosti.
+Mutace + nejvýhodnější fenotyp jsou předpokladem evoluce.
+
+## Genetika člověka
+Omezené možnosti zkoumání – dlouhá generační doba, výchova...
+### metody zkoumání
+- rodokmenová metoda
+  - `genealogie`
+  - ○ žena → ◻︎ proband
+  - ◻︎ muž
+  - ○＿◻︎
+  - ○﹍◻︎
+  - https://www.wikiskripta.eu/w/Genealogie
+- věda, která se zabývá dvojčaty = gemelilogie
+3. metoda – výzkum populační, tady se sleduje frekvence alel 
+- Genotyp podmiňuje zdravotní stav
+- v rodině se nemoci dědí, ale nejde prokázat mendelovskou dědičnost
+- příklady: alergie, neurózy
+
+- sropkovitá anémie – červené k. mají srpkovitý tvar a neplní funkci, alela se pak nejčastěji značí HBs, dědí de autozomálně recesivně
+- finelketonurie – aminokyselina fenylananin se hromadí v moči
+- cystická fibróza – porucha trávicí a dýchací soustavy
+- dochází k nadměrné tvorbě hlenu, tělo často podléhá infekcím
+- syndrom kočičího křiku – delece na 5. chromozomu
+- Klinefelterův syndrom – navíc chromozom X, XXY
+  - jsou to muži, ale mohou mít nevýrazné pohlavní znaky
+- Turnerův syndom – chybí druhý chromozom
+  - Xo – menší vzrůst, postava mužekého typu
+- "Supermuž" – 47 chromozomů, XYY
+- "Superžena" – XXX, vyšší postavy
+  - neplodní
+
+- `amyocentéza` – odběr plodové vody, vyšetření plodové vody
+
+
+# Populace
+- skupina lidí osidlující určité území
+- genoform populace – soubor všech alel všech členů populace
+### Dělení populací
+- podle velikosti
+  - velké
+  - malé – několik desítek
+- dělení populací podle partnerských vztahů
+  - autogamní – samooplození (hermafroditi a samosprašné rostliny)
+  - panmektická populace – náhodné párování (gonochoristé)
+
+### složení genofondu v panmektické populaci
+- úvahy se odehrávají na základě sledování dvou alel
+- jedná se o příklad (typ) alogamické populace 
+
+### Hardy–Weinbergův zákon
+- vycházíme z genu který má 2 alely
+- frekvence dominantní alely se značí malým `p`
+- frekvence recesivní alely se značí malým `q`
+  - `p + q = 1 (100 %)`
+
+
+### Panmiktická populace
+|        | pA                  | qa                  |
+| ------ | ------------------- | ------------------- |
+| **pA** | **p<sup>2</sup>AA** | **pqAa**            |
+| **qa** | **pqAa**            | __q<sup>2</sup>aa__ |
+
+p<sup>2</sup> + 2pq + q<sup>2</sup> = 1
+
+
+| p<sup>2</sup> | 2pq          | q<sup>2</sup> |
+| ------------- | ------------ | ------------- |
+| __frek.AA__   | __frek. Aa__ | __frek. aa__  |
+
+__Příklad:__
+V panmiktické populaci sledujeme barvu očí. Hnědou barvu nese dominantní alela (A). V této populaci má 8 % lidí modré oči. Modrou barvu nese recesivní alela (a). Kolik lidí má v populaci hnědé oči a jsou heterozygoti?
+
+**řešení: `q2=8%=0,08`** 
+```
+q=0,28
+p=1-0,28=0,72
+2pq= 2x0,28x0,72=0,4=40%
+```
+
+### Autogamická populace
+<https://www.wikiskripta.eu/w/Popula%C4%8Dn%C3%AD_genetika#Autogamick%C3%A1_populace>
+
 
 

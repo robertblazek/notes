@@ -1,21 +1,21 @@
 ---
+title: Tvorba webových stránek v HTML
 attachments: [Clipboard_2021-02-12-09-45-17.png, Clipboard_2021-02-12-09-51-50.png, Clipboard_2021-02-12-09-55-31.png, Clipboard_2021-02-12-09-57-50.png, "Snímek obrazovky 2021-02-12 v\_9.21.45.png"]
 tags: [random]
-title: Tvorba webových stránek v HTML
 created: '2021-02-12T08:31:39.997Z'
-modified: '2021-02-26T08:24:02.664Z'
+modified: '2021-11-18T12:04:36.639Z'
 ---
 
 # Tvorba webových stránek v HTML
 ## Vytvoření HTML souboru (zdrojový kód)
-<details closed>
+<details>
   <summary>Windows</summary>
   <markdown>
   [https://www.jakpsatweb.cz/jak-udelat.html](https://www.jakpsatweb.cz/jak-udelat.html)
   </markdown>
 </details>
 
-<details closed>
+<details>
   <summary>Mac</summary>
   <markdown>
   <kbd>⌘</kbd>+<kbd>space</kbd>

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6cbedd815fdf2dd0",
+        "id": "a5f5d63132c13d58",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "test1.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -41,7 +44,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           }
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +98,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6cbedd815fdf2dd0",
+  "active": "a5f5d63132c13d58",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Druhá světová válka.md",
     "Hypotéka.md",
     "Revoluce v Německu – březen 1848.md",
     "Utváření Československého státu.md",

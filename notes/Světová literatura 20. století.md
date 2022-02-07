@@ -2,7 +2,7 @@
 title: Světová literatura 20. století
 tags: [Notebooks/Literatura]
 created: '2021-09-14T09:21:16.031Z'
-modified: '2021-10-14T08:35:23.851Z'
+modified: '2021-11-23T10:26:30.380Z'
 ---
 
 # Světová literatura 20. století
@@ -123,5 +123,29 @@ Představitelé Skupiny navázali na pokrokovou tradici německé literatury v 1
   - válečný román
 - __Biliár o půl desáté__
 - __Klaunovy názory__
+
+---
+
+Jean-paul sartre (1905 – 1980)
+### próza
+- __Nevolnost (Hnus)__
+
+
+---
+### Cizinec (1942) – Novela
+- 1. část = dějová – ich forma
+  - úsek ze života hlavníhp hrdiny
+  - Úředník Mersault bere život takový jaký je, téměř nic ho nevzrušuje a nevyvádí z klidu. Krátce po matčině smrti se seznámí se svým sousedem Raymondem, potom všichni odjíždějí na chatu, která patří Raymondovy příteli, kde na pláži čelí střetu s Araby. Mersault mezi skalisky zahlédne jednoho z Arabů, jehož zastřelí
+- 2. část = úvahová – zatčení, výslechy, soudní proces, rozsudek
+  - Mersault čeká na popravu a rekapituluje život, nechápe absurditu světa. Přemýšlí, proč ho všichni posuzují jenom zvnějšku a nikdo se nezajímá o jeho vnitřní pohnutky. V tomto světě se neorientuje, považuje ho za pokrytecký a je _cizincem i ve svém životě_.
+
+### Mor (1947) – alegorické dílo
+- Děj
+  - Děj se odehrává ve městě Oran v Alžírsku ve 30. letech, kdy je město zasaženo morovou epidemií. Jde o jakoousi kroniku, kterou píše jeden z protagonistů a zárověň vypravěč, lékař Bernard Rieux. Současně využívá zápisky jiného hrdiny – intelektuál Tarrou. Dbá na to, aby zapisoval vše objektivně a o sobě mluví ve 3. osobě.
+  - Doktor upozorňuje městskou radu na nebezpečí epidemie, ti však jeho radu nebrali v potaz. Opatření přijmou teprve, až se nemoc rozšíří do bohatých čtvrtí. Doktor Rieux se snaží nalézt vakcínu.
+- Plastický obraz společnosti – jak se různí lidé chovají v extrémní situaci
+  - Páter Peneloux – fanatický fatalista, který v epidemii vidí jen trest boží a vyzývá k pasivitě
+  - Rentiér Gottard – epidemii vítá, protože konečně splývá s davem
+  - Novinář Rambert – od situace se distancuje, myslí jen na sebe (nakonec ho situace změní a aktivně se zapojí do boje s nemocí)
 
 

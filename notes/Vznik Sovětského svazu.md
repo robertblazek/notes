@@ -1,11 +1,11 @@
 ---
-title: Vznik Sovštského svazu
+title: Vznik Sovětského svazu
 tags: [Notebooks/D]
 created: '2021-10-13T09:11:38.280Z'
-modified: '2021-10-13T09:29:19.102Z'
+modified: '2021-10-15T10:41:48.757Z'
 ---
 
-# Vznik Sovštského svazu
+# Vznik Sovětského svazu
 - 30.12.1922 (do té doby jen sovětské Rusko)
 - zdědil z doby carismu zaostalý průmysl, nevyhovující evropské společnosti 19., natož ěé. století
 - sovětská vláda zavedla systém centrálně plánovaného hospodářství
@@ -37,3 +37,17 @@ __1928 – dva pětileté plány__
 ### Násilná kolektivizace – združstevňování
 - byly jim stanoveny tak vysoké odvody, že byly nesplnitelné, proto byli následně vysídleni do odlehlých oblastí
 
+- `kolchozy` = zemědělská družstva
+- `sovchoz` = státní statek
+- hladomory a vzpoury
+- pokles životní úrovně se projevil poklesem reálných mezd
+- __1934__ vstup SSSR do SN 
+
+## Stalinova diktatura
+- 1934 – vražda komunisty Sergeje Kirova
+  - posloužilo jako záminka pro Mimořádný dekret, který umožnil odsoudit k smrti lidi obviněné z terorismu
+- oběti – monstrprocesy, někdejší stalinovi odpůrci
+  - Kamenšv, Zinojev, Bucharin, Rykov
+- stalinisté
+  - Michail Tuchačevský
+- marxismus-leninismus
