@@ -1,7 +1,8 @@
 ---
 title: Budovatelská poezie
+tags: [Notebooks/Literatura]
 created: 2022-02-03T08:57:49.316Z
-modified: 2022-02-07T10:26:48.525Z
+modified: 2022-02-08T10:23:05.801Z
 ---
 
 # Budovatelská poezie
@@ -50,3 +51,11 @@ modified: 2022-02-07T10:26:48.525Z
   - rekonstruuje poslední roky života potulného loutkáře
   - napoleonská doba
   - Matěje Kuřete, který chce hrát dětem divadlo, vstoupí do života velké dějiny a snaží se vrátit ke svému původnímu životu – je odhalen a odveden zpět k vojsku.
+
+## Karel Šiktanc
+- Hřebeč u Kladna
+- poezie budovatelského typu
+- __Heinovské noci__ – lidice, Heydrich Heine
+- Prezident Havel ho vyznamenal medailí za zásluhy
+- Petetická – únor 1948, 
+

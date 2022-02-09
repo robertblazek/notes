@@ -2,7 +2,7 @@
 title: Český fašismus
 tags: [Notebooks/D]
 created: 2021-11-26T11:47:23.878Z
-modified: 2022-01-28T11:54:03.867Z
+modified: 2022-02-09T11:20:00.876Z
 ---
 
 # Český fašismus
@@ -134,3 +134,33 @@ __stranický život okleštěn, existovaly jen 2 politické strany__
 - výbor národního souručenství – místo parlamentu
 - ministr školství – Emanuel Moravec, měl za úkol vychovávat žáky ve smyslu fašistických idejí, uděloval kvóty na to, kolik lidí smí dosáhnout vzdělání
 - nucené práce
+
+---
+### úspěchy zahraničního odboje
+- VB vzniká čsl. smíšená bridáda, generál Behřich Neumann
+- bitva o Británii 1940
+
+### po napadení SSSR 1941
+- československá jednotka vznikla i v SSSR
+- polní prapor pod velením Ludvíka Svobody
+
+**1941 vrcholí odbojová aktivita, sabotáže, heslo Pracuj Pomalu**
+- Reinhard Heydrich v září 1941 vyslán do Prahy jako zastupující říšský protektor s úkolem zklidnit situaci v protektorátu
+- politika cukru a biče
+- hromadné popravy
+  - odhalen a popeaven Alois Eliáš a téměř celé vedení ÚVODu, výměna protektorátní vlády, ministr školství Emanuel Moravec
+
+## Atentát na Heydricha
+- parašutisté vyslání na území protektorátu, s cílem oživit sítě somácího odboje a rozvíjet zpravodajskou činnost
+- Oporu měli v majiteli hotelu Veselka v Pardubicích, hlavním představitelem byl Alfréd Bartoš
+- skupina __Anthropoid__ – Jan Kubiš a Josef Gabčík, pověřeni speciálním úkolem – zabít heydricha
+  - vybrali si místo v Praze Kobylisích, 27.5. 1942 svůj plán zrealizovali
+    - atentát by možná přežili, kdyby je Karel Čurda nezradil a neprozradil jména lidí
+  - Heydrich nezemřel okamžitě, ale v důsledku infekce ran, které utrpěl
+  - Hitler zuřil, protože žádná odbojová organizace nezlikvidovala takto vysoko postaveného fašistického funkcionáře
+  - __Po této události odvolaly mocnosti Mnichov__
+  - Rozpoutala se vlna represí – __Heydrichiáda__
+  - Znovu rozpoutané stanné právo, rozhlas četl kdo byl popraven
+  - 10.6.1942 – vypáleny Lidice u Kladna
+  - 24.6. 1942 – Ležáky u Chrudimi – popraveni na zámečku v Pardubicích – Larišova Vila
+

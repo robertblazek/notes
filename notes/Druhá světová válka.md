@@ -2,7 +2,7 @@
 title: Druhá světová válka
 tags: [Notebooks/D]
 created: 2022-01-19T09:49:21.740Z
-modified: 2022-01-26T10:29:18.443Z
+modified: 2022-02-09T11:06:04.310Z
 ---
 
 # Druhá světová válka
@@ -432,6 +432,8 @@ Stalin, Harry Truman, Clement Attlee
 - finlandizace – Finsko se ubránilo od vlivu Sovětského Svazu
 
 ---
+
+###
 
 
 
