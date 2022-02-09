@@ -2,7 +2,7 @@
 title: Budovatelská poezie
 tags: [Notebooks/Literatura]
 created: 2022-02-03T08:57:49.316Z
-modified: 2022-02-08T10:23:05.801Z
+modified: 2022-02-09T12:45:39.840Z
 ---
 
 # Budovatelská poezie
@@ -59,3 +59,34 @@ modified: 2022-02-08T10:23:05.801Z
 - Prezident Havel ho vyznamenal medailí za zásluhy
 - Petetická – únor 1948, 
 
+Typické znaky tvorby:
+- rezignace na optimistický pohled na život
+- konfrontace přítomnosti a minulosti
+- subjektivní hledání
+- kruhová kompozice 
+
+Jazyk:
+- bohatství lexikálních prostředků – archaismy, biblismy, neologismy, dialekt, hovorový jazyk
+- figury – anafory, enumerace, polysyndeton
+- tropy – metafory, personifikace
+
+#### Zaříkávání živých
+- Lyrický cyklus 13 básní
+- témata deziluze, ztráty víry, reakce na nesvobodu
+
+#### Adam a Eva
+- skladba komponovaná jako jednotný celek
+- uvedena vzýváním bohyně paměti Mnémosyné, biblické vypravování
+- aby se žovit nestal jen bezduchým návratem toho, co už tady bylo
+- vyjadřuje pocity úzkosti a nejistoty, symbolem toho je Darmoděj – metafora pro nicotu a vyprahlost
+
+#### Český orloj
+- asi nejznámější Šiktancova sbírka, kterou napsal v 70. letech kdy nesměl publikovat
+- poprvé vyšel v samizdatu už v 70. letech a poté v exilu v Mnichově, v roce 1990 pak v čechách
+- 12 oddílů pojmenovaných podle kalendářních měsíců
+- celou sbírkou se prolíná fiktivní rozhovor se synem, což symbolizuje generační symbiózu a snahu předat vědomosti a nechat stopu v dějinách
+
+## Časopis Host do domu
+- volné literární sdružení
+- Oldřich Mikulášek, Jan Skácel, Ludvík Kundera, Milan Uhde, Jan Trefulka
+- Jaromír Tomeček – autor knih o přírodě: Stříbrný lipan, Admirál na dyji
