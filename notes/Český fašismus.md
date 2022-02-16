@@ -2,7 +2,7 @@
 title: Český fašismus
 tags: [Notebooks/D]
 created: 2021-11-26T11:47:23.878Z
-modified: 2022-02-09T11:20:00.876Z
+modified: 2022-02-16T12:44:11.318Z
 ---
 
 # Český fašismus
@@ -163,4 +163,38 @@ __stranický život okleštěn, existovaly jen 2 politické strany__
   - Znovu rozpoutané stanné právo, rozhlas četl kdo byl popraven
   - 10.6.1942 – vypáleny Lidice u Kladna
   - 24.6. 1942 – Ležáky u Chrudimi – popraveni na zámečku v Pardubicích – Larišova Vila
+
+__atentát zvýšil prestiž ČSR__
+- 1942 – VB anulovala Mnichovskou dohodu, ve Francii ji Charles de Gaulle prohlásil za neplatnou
+- konec česko–německého soužití – vyhnání němců z ČSR
+- sbližování center odboje – 1943 Beneš navštívil Moskvu
+  - dohodli se na některých změnách v československu
+  - 12.12. 1943 smlouva o přítelství, vzájemné pomoci a poválečné spolupráci mezi ČSR a SSSR 
+  - jednal s Gottwaldem o poválečném uspořádání
+  - __od té doby považoval Stalin ČSR za svou sféru vlivu__
+
+## Slovenské národní povstání
+- koncem roku 1943 vznikla Slovenská národní rada, která přijala dokument – Vánoční dohoda, kde se psalo o tom, že je třeba připravit ozbrojené povstání proti fašistům
+### průběh
+- v létě 1944 se zaktivizovalo partyzánské hnutí
+- vyhlášení stanného práva a příchod německých jednotek na slovensko
+- povstání mělo i vojenský význam, protože vázalo vojenské síly a narušovalo týl vojenských vojsk
+- zpřetrhalo dopravní spoje na východní frontu
+zvýšená aktivita odboje v protektorátu
+- R-3 = __Rada tří__, v čele Josef Grňa, Vojtěch Luža
+- duben 1945 – __Česká národní rada__ – sjednotila protifašistické síly; předseda Albert Pražák
+- povstání vypuklo spontánně v Prešově 1. 5. 1945, a odtud se šířilo do dalších měst
+## obnovení československa v roce 1945
+Smlouva o přátelství a vzájemné spolupráci
+březen 1945 – při Moskevské schůzce byla sestavena Československá vláda na principu parity
+- premiér – Zdeněk Fierlinger
+- ministr zahraničních věcí – Jan Masaryk
+- ministr národní obrany – gen. Ludvík Svoboda
+- místopředseda vlády – Klement Gottwald
+### Košický vládní program
+Osvobozená republika se bude lišit od té předmnichovské
+1. v národnostní struktuře
+2. v soustavě politických stran
+3. v hospodářském systému
+4. v zahraničně-politické orientaci
 
