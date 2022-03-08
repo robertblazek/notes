@@ -2,7 +2,7 @@
 title: Český fašismus
 tags: [Notebooks/D]
 created: 2021-11-26T11:47:23.878Z
-modified: 2022-02-16T12:44:11.318Z
+modified: 2022-02-25T11:51:54.324Z
 ---
 
 # Český fašismus
@@ -198,3 +198,16 @@ Osvobozená republika se bude lišit od té předmnichovské
 3. v hospodářském systému
 4. v zahraničně-politické orientaci
 
+### státoprávní uspořádání
+- prezident Beneš
+- vláda – 10.5. 1945 přiletěla do Prahy
+- dekrety prezidenta republiky (89)
+-nesouměrný model státoprávního uspořádání
+- Slovenská a Česká národní rada
+- České země byly organizovány výlučně na územním principu
+- zatímco slovenská národní rada nezanikla a vydávala pro slovensko zákonná nařízení, takže vlastně to slovensko bylo organizováno na principu národnostním
+### znárodnění a pozemková reforma
+
+
+### dotvoření totalitního režimu
+- 2.6. 1948 
