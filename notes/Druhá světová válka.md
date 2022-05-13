@@ -2,7 +2,7 @@
 title: Druhá světová válka
 tags: [Notebooks/D]
 created: 2022-01-19T09:49:21.740Z
-modified: 2022-02-09T11:06:04.310Z
+modified: 2022-04-08T10:33:48.590Z
 ---
 
 # Druhá světová válka
@@ -433,8 +433,67 @@ Stalin, Harry Truman, Clement Attlee
 
 ---
 
-###
+### rada vzájemné hospodářské pomoci
+- vznikla v roce 1949 s cílem koordinovat jednotlivé hospodířské politiky zemí uvnitř sovětského bloku 
+- zahraniční obchod – orientován na RVHP
+- komunisté slibovali sedlákům, že když proběhne kolektivizace, budou ušetřeni dřiny, protože lány budou obdělávat traktory
+- 'všichni dobří rodáci'
+- stoupla zaměstnanost žen
+- fyzická práce stavěna nad duševní
 
+### Měnová reforma 1.6.1963
+- příprava od 1952
+- cíl: oživit ekonomiku, odstranit dvojí trh – volný a přídělový
+- ceny zboží a platy se snížily v poměru 1:5
+- úspory přesahující limit 5000 Kč 1:50
+- demonstrace, stávky
 
+### Charta 77
+- Moc bezmocných
+### Milouš Jakeš
+- 1987 generálním tajemníkem
+- normalizační stranický funkcionář
+- totálně izoloval KSČ od společnosti
 
+## Listopad 1989
+- 17.11. manifestace studentů (50. výročí)
+- politická demonstrace
+- brutální policejní zásah – Národní třída (impulz pro masové represe proti režimu)
+- studenty podpořili herci – stávka
+- masové protesty po celé zemi
+- 19.11. Občanské fórum – Václav Havel
+- Veřejnost proti násiliu – Fedor Gál, Vl. Mečiar
+## Vplynutí do sjednocené Evropy
+- demokratický systém
+- tržní ekonomika – neoliberální teorie
+- problematické dědictví komunistické moci
+- klady – hodnoty ekonomické, úrověň obyvatel
+- privatizace – kopónová provatizace
+- majetkové restituce
+- rehabilitace
+- liberalizace cen
+
+## první volby
+- 8.–9. 6. 1990 volby do Federálního NS
+	- Čechy – vítězí OF; Slovensko – VPN
+- Z OF a VPN se oddělily a osamostatnily 3 politické strany
+- ODS v čele s V. Klausem
+- ODA – Jan Kalvoda
+- OH – občanské hnutí
+### obnovené strany 
+- KDU-ČSL
+- KSČM
+- Sociální demokracie – Jiří Horák, Miloš Zeman
+- Česká strana socialistická
+### rozhodující volby
+- Č – vítězí ODS
+- S – vítězí HZDS (Hnutí za demokratické Slovensko)
+### rozpad federace
+- Problém – česko-slovenské vztahy
+- česká společnost stotožněna s Československem
+
+## Studená válka
+- Soupeření ve všech oblastech lidského života
+- snaha ovládnout vesmír
+- vývoj nových jaderných zbraní
 

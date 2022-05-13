@@ -2,7 +2,7 @@
 title: Český fašismus
 tags: [Notebooks/D]
 created: 2021-11-26T11:47:23.878Z
-modified: 2022-02-25T11:51:54.324Z
+modified: 2022-03-09T10:30:26.993Z
 ---
 
 # Český fašismus
@@ -211,3 +211,27 @@ Osvobozená republika se bude lišit od té předmnichovské
 
 ### dotvoření totalitního režimu
 - 2.6. 1948 
+
+- komunisté se snažili zlikvidovat veškerou opozici
+- stíháni lidé "podezřelí" – jiné myšlení, sociální původ, věřící, bránící svou živnost, statek
+- vězení a koncentrační tábory
+- TNP – tábory nucené práce
+- PTP – pomocné technické prapory
+
+### politické procesy – vrchol nezákonností
+- procesy se srtaly prostředkem politiky
+- politické a ideologické kampaně
+- zastrašování
+- výrobce – StB, konstrukce obvinění, fyzické a psychické násilí, sovětští poradci
+- hlavní vlna – 5 let, poslední proces 1964
+- 232 rozsudků smrti (178); 80 000 vězňů
+
+### justiční vraždy
+- popraven Heliodor Píka
+- farář Josef Toufar – číhošťský zázrak
+- Milada Horáková
+
+### proměny ekonomiky
+- likvidace soukromého sektoru
+- zanikla hospodářská demokracie
+
